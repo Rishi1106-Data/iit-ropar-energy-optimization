@@ -1,0 +1,2041 @@
+Date,Month,Building,Building_Type,Occupancy,Heater_Use,AC_Use,Units_kWh,Peak_Load_kW
+01/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,778,92.07
+01/11/2025,11,Ravi Girls,Hostel,200,0,0,380,43.93
+01/11/2025,11,Satluj,Hostel,350,0,0,565,82.45
+01/11/2025,11,Chenab,Hostel,350,0,0,594,101.46
+01/11/2025,11,beas,Hostel,300,0,0,491,84.55
+01/11/2025,11,T6 PhD,Hostel,200,0,0,361,42.66
+01/11/2025,11,Faculty Quarters,Residential,100,0,0,191,30.78
+01/11/2025,11,CS Department,Academic,120,0,1,272,35.12
+01/11/2025,11,Electrical Department,Academic,110,0,1,266,52.5
+01/11/2025,11,Mechanical Department,Academic,130,0,1,259,48.17
+01/11/2025,11,AI Center,Academic,80,0,1,220,23.43
+01/11/2025,11,Central Library,Academic,150,0,1,288,52.08
+01/11/2025,11,Admin Block,Academic,70,0,1,204,34.36
+01/11/2025,11,Central Mess,Facility,400,0,0,670,107.87
+01/11/2025,11,Central Labs,Facility,90,0,0,206,39.33
+01/11/2025,11,Street Lighting,Facility,0,0,0,339,59.51
+01/11/2025,11,Sports Complex,Facility,60,0,0,151,17.89
+02/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,775,112.36
+02/11/2025,11,Ravi Girls,Hostel,200,0,0,395,63.12
+02/11/2025,11,Satluj,Hostel,350,0,0,562,88.26
+02/11/2025,11,Chenab,Hostel,350,0,0,594,109.57
+02/11/2025,11,beas,Hostel,300,0,0,536,98.02
+02/11/2025,11,T6 PhD,Hostel,200,0,0,404,46.09
+02/11/2025,11,Faculty Quarters,Residential,100,0,0,180,18.28
+02/11/2025,11,CS Department,Academic,120,0,1,248,29.73
+02/11/2025,11,Electrical Department,Academic,110,0,1,249,29.85
+02/11/2025,11,Mechanical Department,Academic,130,0,1,291,51.54
+02/11/2025,11,AI Center,Academic,80,0,1,250,41.28
+02/11/2025,11,Central Library,Academic,150,0,1,283,45.94
+02/11/2025,11,Admin Block,Academic,70,0,1,225,37.55
+02/11/2025,11,Central Mess,Facility,400,0,0,643,105.29
+02/11/2025,11,Central Labs,Facility,90,0,0,172,23.79
+02/11/2025,11,Street Lighting,Facility,0,0,0,302,53.18
+02/11/2025,11,Sports Complex,Facility,60,0,0,161,24.05
+03/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,764,84.87
+03/11/2025,11,Ravi Girls,Hostel,200,0,0,391,63.98
+03/11/2025,11,Satluj,Hostel,350,0,0,586,99.36
+03/11/2025,11,Chenab,Hostel,350,0,0,593,83.64
+03/11/2025,11,beas,Hostel,300,0,0,525,102
+03/11/2025,11,T6 PhD,Hostel,200,0,0,381,71.65
+03/11/2025,11,Faculty Quarters,Residential,100,0,0,185,26.95
+03/11/2025,11,CS Department,Academic,120,0,1,267,50.53
+03/11/2025,11,Electrical Department,Academic,110,0,1,266,36.08
+03/11/2025,11,Mechanical Department,Academic,130,0,1,257,31.56
+03/11/2025,11,AI Center,Academic,80,0,1,224,41.68
+03/11/2025,11,Central Library,Academic,150,0,1,282,43.26
+03/11/2025,11,Admin Block,Academic,70,0,1,235,26.32
+03/11/2025,11,Central Mess,Facility,400,0,0,678,79.21
+03/11/2025,11,Central Labs,Facility,90,0,0,195,33.21
+03/11/2025,11,Street Lighting,Facility,0,0,0,348,43.64
+03/11/2025,11,Sports Complex,Facility,60,0,0,186,27.85
+04/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,798,159.42
+04/11/2025,11,Ravi Girls,Hostel,200,0,0,361,54.25
+04/11/2025,11,Satluj,Hostel,350,0,0,591,79.49
+04/11/2025,11,Chenab,Hostel,350,0,0,556,85.12
+04/11/2025,11,beas,Hostel,300,0,0,495,61.48
+04/11/2025,11,T6 PhD,Hostel,200,0,0,370,50.68
+04/11/2025,11,Faculty Quarters,Residential,100,0,0,217,29.68
+04/11/2025,11,CS Department,Academic,120,0,1,253,35.39
+04/11/2025,11,Electrical Department,Academic,110,0,1,254,46.62
+04/11/2025,11,Mechanical Department,Academic,130,0,1,262,44.43
+04/11/2025,11,AI Center,Academic,80,0,1,247,25.11
+04/11/2025,11,Central Library,Academic,150,0,1,293,39.52
+04/11/2025,11,Admin Block,Academic,70,0,1,235,32.84
+04/11/2025,11,Central Mess,Facility,400,0,0,600,100.54
+04/11/2025,11,Central Labs,Facility,90,0,0,194,29.9
+04/11/2025,11,Street Lighting,Facility,0,0,0,306,50.8
+04/11/2025,11,Sports Complex,Facility,60,0,0,149,29.74
+05/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,754,143.29
+05/11/2025,11,Ravi Girls,Hostel,200,0,0,368,47.06
+05/11/2025,11,Satluj,Hostel,350,0,0,570,108.14
+05/11/2025,11,Chenab,Hostel,350,0,0,587,96.39
+05/11/2025,11,beas,Hostel,300,0,0,497,88.73
+05/11/2025,11,T6 PhD,Hostel,200,0,0,394,54.07
+05/11/2025,11,Faculty Quarters,Residential,100,0,0,204,20.5
+05/11/2025,11,CS Department,Academic,120,0,1,265,39.37
+05/11/2025,11,Electrical Department,Academic,110,0,1,274,46.91
+05/11/2025,11,Mechanical Department,Academic,130,0,1,277,32.65
+05/11/2025,11,AI Center,Academic,80,0,1,219,40.5
+05/11/2025,11,Central Library,Academic,150,0,1,307,47.36
+05/11/2025,11,Admin Block,Academic,70,0,1,224,28.34
+05/11/2025,11,Central Mess,Facility,400,0,0,637,126.06
+05/11/2025,11,Central Labs,Facility,90,0,0,179,29.2
+05/11/2025,11,Street Lighting,Facility,0,0,0,329,54.12
+05/11/2025,11,Sports Complex,Facility,60,0,0,180,21.51
+06/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,768,120.73
+06/11/2025,11,Ravi Girls,Hostel,200,0,0,376,75
+06/11/2025,11,Satluj,Hostel,350,0,0,600,114.89
+06/11/2025,11,Chenab,Hostel,350,0,0,595,116.21
+06/11/2025,11,beas,Hostel,300,0,0,535,105.22
+06/11/2025,11,T6 PhD,Hostel,200,0,0,392,42.15
+06/11/2025,11,Faculty Quarters,Residential,100,0,0,211,39.06
+06/11/2025,11,CS Department,Academic,120,0,1,265,41.26
+06/11/2025,11,Electrical Department,Academic,110,0,1,241,37.84
+06/11/2025,11,Mechanical Department,Academic,130,0,1,288,48.13
+06/11/2025,11,AI Center,Academic,80,0,1,238,30.83
+06/11/2025,11,Central Library,Academic,150,0,1,314,53.29
+06/11/2025,11,Admin Block,Academic,70,0,1,241,31.18
+06/11/2025,11,Central Mess,Facility,400,0,0,649,121.17
+06/11/2025,11,Central Labs,Facility,90,0,0,178,26.73
+06/11/2025,11,Street Lighting,Facility,0,0,0,300,32.13
+06/11/2025,11,Sports Complex,Facility,60,0,0,161,30.43
+07/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,777,122.68
+07/11/2025,11,Ravi Girls,Hostel,200,0,0,381,50.6
+07/11/2025,11,Satluj,Hostel,350,0,0,576,91.63
+07/11/2025,11,Chenab,Hostel,350,0,0,596,108.63
+07/11/2025,11,beas,Hostel,300,0,0,526,80.07
+07/11/2025,11,T6 PhD,Hostel,200,0,0,403,79.2
+07/11/2025,11,Faculty Quarters,Residential,100,0,0,185,19.46
+07/11/2025,11,CS Department,Academic,120,0,1,282,46.18
+07/11/2025,11,Electrical Department,Academic,110,0,1,251,49.44
+07/11/2025,11,Mechanical Department,Academic,130,0,1,275,49.37
+07/11/2025,11,AI Center,Academic,80,0,1,239,41.68
+07/11/2025,11,Central Library,Academic,150,0,1,300,58.88
+07/11/2025,11,Admin Block,Academic,70,0,1,211,35.63
+07/11/2025,11,Central Mess,Facility,400,0,0,600,86.54
+07/11/2025,11,Central Labs,Facility,90,0,0,196,32.54
+07/11/2025,11,Street Lighting,Facility,0,0,0,315,47.78
+07/11/2025,11,Sports Complex,Facility,60,0,0,152,24.5
+08/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,761,119.18
+08/11/2025,11,Ravi Girls,Hostel,200,0,0,381,38.65
+08/11/2025,11,Satluj,Hostel,350,0,0,559,61.16
+08/11/2025,11,Chenab,Hostel,350,0,0,559,82.41
+08/11/2025,11,beas,Hostel,300,0,0,537,97.03
+08/11/2025,11,T6 PhD,Hostel,200,0,0,389,64.18
+08/11/2025,11,Faculty Quarters,Residential,100,0,0,184,34.71
+08/11/2025,11,CS Department,Academic,120,0,1,257,41.78
+08/11/2025,11,Electrical Department,Academic,110,0,1,239,36.79
+08/11/2025,11,Mechanical Department,Academic,130,0,1,272,29.12
+08/11/2025,11,AI Center,Academic,80,0,1,239,37.9
+08/11/2025,11,Central Library,Academic,150,0,1,298,49.98
+08/11/2025,11,Admin Block,Academic,70,0,1,235,34.27
+08/11/2025,11,Central Mess,Facility,400,0,0,611,84.69
+08/11/2025,11,Central Labs,Facility,90,0,0,181,21.84
+08/11/2025,11,Street Lighting,Facility,0,0,0,311,34.23
+08/11/2025,11,Sports Complex,Facility,60,0,0,182,24.33
+09/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,778,143.53
+09/11/2025,11,Ravi Girls,Hostel,200,0,0,393,49.55
+09/11/2025,11,Satluj,Hostel,350,0,0,604,98.39
+09/11/2025,11,Chenab,Hostel,350,0,0,590,83.66
+09/11/2025,11,beas,Hostel,300,0,0,525,61.82
+09/11/2025,11,T6 PhD,Hostel,200,0,0,394,78.43
+09/11/2025,11,Faculty Quarters,Residential,100,0,0,197,24.63
+09/11/2025,11,CS Department,Academic,120,0,1,270,52.13
+09/11/2025,11,Electrical Department,Academic,110,0,1,251,43.67
+09/11/2025,11,Mechanical Department,Academic,130,0,1,286,54.41
+09/11/2025,11,AI Center,Academic,80,0,1,236,31.15
+09/11/2025,11,Central Library,Academic,150,0,1,310,31.34
+09/11/2025,11,Admin Block,Academic,70,0,1,214,28.99
+09/11/2025,11,Central Mess,Facility,400,0,0,651,102.43
+09/11/2025,11,Central Labs,Facility,90,0,0,176,22.76
+09/11/2025,11,Street Lighting,Facility,0,0,0,320,56.08
+09/11/2025,11,Sports Complex,Facility,60,0,0,186,20.3
+10/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,788,157.28
+10/11/2025,11,Ravi Girls,Hostel,200,0,0,394,74.38
+10/11/2025,11,Satluj,Hostel,350,0,0,572,112.61
+10/11/2025,11,Chenab,Hostel,350,0,0,598,111.64
+10/11/2025,11,beas,Hostel,300,0,0,535,91
+10/11/2025,11,T6 PhD,Hostel,200,0,0,409,77.38
+10/11/2025,11,Faculty Quarters,Residential,100,0,0,208,22.56
+10/11/2025,11,CS Department,Academic,120,0,1,248,46.63
+10/11/2025,11,Electrical Department,Academic,110,0,1,245,48.66
+10/11/2025,11,Mechanical Department,Academic,130,0,1,262,44.75
+10/11/2025,11,AI Center,Academic,80,0,1,250,35.61
+10/11/2025,11,Central Library,Academic,150,0,1,313,44.9
+10/11/2025,11,Admin Block,Academic,70,0,1,230,36.14
+10/11/2025,11,Central Mess,Facility,400,0,0,671,74.99
+10/11/2025,11,Central Labs,Facility,90,0,0,172,28.91
+10/11/2025,11,Street Lighting,Facility,0,0,0,348,37.68
+10/11/2025,11,Sports Complex,Facility,60,0,0,153,27.57
+11/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,794,82.83
+11/11/2025,11,Ravi Girls,Hostel,200,0,0,380,75.73
+11/11/2025,11,Satluj,Hostel,350,0,0,589,99.86
+11/11/2025,11,Chenab,Hostel,350,0,0,601,97.93
+11/11/2025,11,beas,Hostel,300,0,0,520,103.78
+11/11/2025,11,T6 PhD,Hostel,200,0,0,362,68.82
+11/11/2025,11,Faculty Quarters,Residential,100,0,0,191,37.41
+11/11/2025,11,CS Department,Academic,120,0,1,285,41.49
+11/11/2025,11,Electrical Department,Academic,110,0,1,246,28.77
+11/11/2025,11,Mechanical Department,Academic,130,0,1,264,35.73
+11/11/2025,11,AI Center,Academic,80,0,1,239,32.51
+11/11/2025,11,Central Library,Academic,150,0,1,301,51.11
+11/11/2025,11,Admin Block,Academic,70,0,1,235,33.16
+11/11/2025,11,Central Mess,Facility,400,0,0,628,71.16
+11/11/2025,11,Central Labs,Facility,90,0,0,177,34.51
+11/11/2025,11,Street Lighting,Facility,0,0,0,346,66.4
+11/11/2025,11,Sports Complex,Facility,60,0,0,177,33.03
+12/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,782,139.01
+12/11/2025,11,Ravi Girls,Hostel,200,0,0,406,46.71
+12/11/2025,11,Satluj,Hostel,350,0,0,579,114.06
+12/11/2025,11,Chenab,Hostel,350,0,0,567,60.3
+12/11/2025,11,beas,Hostel,300,0,0,490,49.67
+12/11/2025,11,T6 PhD,Hostel,200,0,0,387,70.16
+12/11/2025,11,Faculty Quarters,Residential,100,0,0,217,41.52
+12/11/2025,11,CS Department,Academic,120,0,1,284,49.9
+12/11/2025,11,Electrical Department,Academic,110,0,1,259,37.57
+12/11/2025,11,Mechanical Department,Academic,130,0,1,269,32.47
+12/11/2025,11,AI Center,Academic,80,0,1,251,40.62
+12/11/2025,11,Central Library,Academic,150,0,1,282,28.83
+12/11/2025,11,Admin Block,Academic,70,0,1,205,31.16
+12/11/2025,11,Central Mess,Facility,400,0,0,653,128.51
+12/11/2025,11,Central Labs,Facility,90,0,0,188,21.32
+12/11/2025,11,Street Lighting,Facility,0,0,0,314,56.04
+12/11/2025,11,Sports Complex,Facility,60,0,0,158,19.16
+13/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,783,105.75
+13/11/2025,11,Ravi Girls,Hostel,200,0,0,389,60.48
+13/11/2025,11,Satluj,Hostel,350,0,0,588,79.28
+13/11/2025,11,Chenab,Hostel,350,0,0,578,110.43
+13/11/2025,11,beas,Hostel,300,0,0,531,98.89
+13/11/2025,11,T6 PhD,Hostel,200,0,0,363,52.97
+13/11/2025,11,Faculty Quarters,Residential,100,0,0,196,24.66
+13/11/2025,11,CS Department,Academic,120,0,1,281,45.54
+13/11/2025,11,Electrical Department,Academic,110,0,1,249,26.79
+13/11/2025,11,Mechanical Department,Academic,130,0,1,272,31.33
+13/11/2025,11,AI Center,Academic,80,0,1,219,25.84
+13/11/2025,11,Central Library,Academic,150,0,1,299,56.71
+13/11/2025,11,Admin Block,Academic,70,0,1,231,45.58
+13/11/2025,11,Central Mess,Facility,400,0,0,650,67.66
+13/11/2025,11,Central Labs,Facility,90,0,0,199,26.82
+13/11/2025,11,Street Lighting,Facility,0,0,0,305,34.18
+13/11/2025,11,Sports Complex,Facility,60,0,0,173,32.77
+14/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,775,131.01
+14/11/2025,11,Ravi Girls,Hostel,200,0,0,406,66.09
+14/11/2025,11,Satluj,Hostel,350,0,0,584,67.57
+14/11/2025,11,Chenab,Hostel,350,0,0,571,72.91
+14/11/2025,11,beas,Hostel,300,0,0,538,85.93
+14/11/2025,11,T6 PhD,Hostel,200,0,0,406,55.64
+14/11/2025,11,Faculty Quarters,Residential,100,0,0,205,36.08
+14/11/2025,11,CS Department,Academic,120,0,1,249,43.51
+14/11/2025,11,Electrical Department,Academic,110,0,1,245,41.34
+14/11/2025,11,Mechanical Department,Academic,130,0,1,274,39.66
+14/11/2025,11,AI Center,Academic,80,0,1,226,24.97
+14/11/2025,11,Central Library,Academic,150,0,1,302,30.81
+14/11/2025,11,Admin Block,Academic,70,0,1,241,26.25
+14/11/2025,11,Central Mess,Facility,400,0,0,624,117.97
+14/11/2025,11,Central Labs,Facility,90,0,0,175,23.71
+14/11/2025,11,Street Lighting,Facility,0,0,0,317,34.46
+14/11/2025,11,Sports Complex,Facility,60,0,0,181,28.2
+15/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,793,89.42
+15/11/2025,11,Ravi Girls,Hostel,200,0,0,365,69.34
+15/11/2025,11,Satluj,Hostel,350,0,0,599,79.69
+15/11/2025,11,Chenab,Hostel,350,0,0,576,70.58
+15/11/2025,11,beas,Hostel,300,0,0,537,62.33
+15/11/2025,11,T6 PhD,Hostel,200,0,0,389,45.64
+15/11/2025,11,Faculty Quarters,Residential,100,0,0,182,27.75
+15/11/2025,11,CS Department,Academic,120,0,1,283,56.52
+15/11/2025,11,Electrical Department,Academic,110,0,1,258,50.81
+15/11/2025,11,Mechanical Department,Academic,130,0,1,262,51.75
+15/11/2025,11,AI Center,Academic,80,0,1,249,41.55
+15/11/2025,11,Central Library,Academic,150,0,1,289,44.36
+15/11/2025,11,Admin Block,Academic,70,0,1,207,24.57
+15/11/2025,11,Central Mess,Facility,400,0,0,618,74.13
+15/11/2025,11,Central Labs,Facility,90,0,0,183,20.4
+15/11/2025,11,Street Lighting,Facility,0,0,0,337,53.29
+15/11/2025,11,Sports Complex,Facility,60,0,0,183,24.17
+16/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,755,100.91
+16/11/2025,11,Ravi Girls,Hostel,200,0,0,382,59.17
+16/11/2025,11,Satluj,Hostel,350,0,0,594,107.51
+16/11/2025,11,Chenab,Hostel,350,0,0,591,59.26
+16/11/2025,11,beas,Hostel,300,0,0,504,74.17
+16/11/2025,11,T6 PhD,Hostel,200,0,0,389,43.05
+16/11/2025,11,Faculty Quarters,Residential,100,0,0,193,37.31
+16/11/2025,11,CS Department,Academic,120,0,1,281,33.19
+16/11/2025,11,Electrical Department,Academic,110,0,1,278,47.86
+16/11/2025,11,Mechanical Department,Academic,130,0,1,285,32.48
+16/11/2025,11,AI Center,Academic,80,0,1,225,40.49
+16/11/2025,11,Central Library,Academic,150,0,1,311,56.43
+16/11/2025,11,Admin Block,Academic,70,0,1,228,43.5
+16/11/2025,11,Central Mess,Facility,400,0,0,641,89.26
+16/11/2025,11,Central Labs,Facility,90,0,0,210,35.99
+16/11/2025,11,Street Lighting,Facility,0,0,0,337,51.89
+16/11/2025,11,Sports Complex,Facility,60,0,0,180,22.18
+17/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,751,115.92
+17/11/2025,11,Ravi Girls,Hostel,200,0,0,398,44.45
+17/11/2025,11,Satluj,Hostel,350,0,0,561,97.08
+17/11/2025,11,Chenab,Hostel,350,0,0,569,106.89
+17/11/2025,11,beas,Hostel,300,0,0,519,98.29
+17/11/2025,11,T6 PhD,Hostel,200,0,0,397,69.57
+17/11/2025,11,Faculty Quarters,Residential,100,0,0,206,35.93
+17/11/2025,11,CS Department,Academic,120,0,1,269,46.11
+17/11/2025,11,Electrical Department,Academic,110,0,1,248,33.28
+17/11/2025,11,Mechanical Department,Academic,130,0,1,287,39.57
+17/11/2025,11,AI Center,Academic,80,0,1,226,40.62
+17/11/2025,11,Central Library,Academic,150,0,1,278,47.88
+17/11/2025,11,Admin Block,Academic,70,0,1,233,37.24
+17/11/2025,11,Central Mess,Facility,400,0,0,625,78.24
+17/11/2025,11,Central Labs,Facility,90,0,0,182,35.66
+17/11/2025,11,Street Lighting,Facility,0,0,0,305,42.73
+17/11/2025,11,Sports Complex,Facility,60,0,0,159,30.4
+18/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,767,123.6
+18/11/2025,11,Ravi Girls,Hostel,200,0,0,402,77.67
+18/11/2025,11,Satluj,Hostel,350,0,0,558,99.89
+18/11/2025,11,Chenab,Hostel,350,0,0,596,105.57
+18/11/2025,11,beas,Hostel,300,0,0,498,70.92
+18/11/2025,11,T6 PhD,Hostel,200,0,0,399,73.43
+18/11/2025,11,Faculty Quarters,Residential,100,0,0,180,20.04
+18/11/2025,11,CS Department,Academic,120,0,1,283,31.83
+18/11/2025,11,Electrical Department,Academic,110,0,1,278,44.7
+18/11/2025,11,Mechanical Department,Academic,130,0,1,265,31.95
+18/11/2025,11,AI Center,Academic,80,0,1,237,31.6
+18/11/2025,11,Central Library,Academic,150,0,1,299,55.72
+18/11/2025,11,Admin Block,Academic,70,0,1,209,28.15
+18/11/2025,11,Central Mess,Facility,400,0,0,616,97.76
+18/11/2025,11,Central Labs,Facility,90,0,0,195,30.76
+18/11/2025,11,Street Lighting,Facility,0,0,0,323,42.36
+18/11/2025,11,Sports Complex,Facility,60,0,0,169,20.62
+19/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,798,94.01
+19/11/2025,11,Ravi Girls,Hostel,200,0,0,408,63.54
+19/11/2025,11,Satluj,Hostel,350,0,0,594,89.23
+19/11/2025,11,Chenab,Hostel,350,0,0,567,79.23
+19/11/2025,11,beas,Hostel,300,0,0,508,68.55
+19/11/2025,11,T6 PhD,Hostel,200,0,0,408,42.29
+19/11/2025,11,Faculty Quarters,Residential,100,0,0,219,34.77
+19/11/2025,11,CS Department,Academic,120,0,1,249,38.21
+19/11/2025,11,Electrical Department,Academic,110,0,1,268,41.8
+19/11/2025,11,Mechanical Department,Academic,130,0,1,257,34.29
+19/11/2025,11,AI Center,Academic,80,0,1,214,29.39
+19/11/2025,11,Central Library,Academic,150,0,1,308,43.39
+19/11/2025,11,Admin Block,Academic,70,0,1,230,42.32
+19/11/2025,11,Central Mess,Facility,400,0,0,607,62.34
+19/11/2025,11,Central Labs,Facility,90,0,0,195,23.32
+19/11/2025,11,Street Lighting,Facility,0,0,0,307,33.9
+19/11/2025,11,Sports Complex,Facility,60,0,0,150,28.31
+20/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,757,83.23
+20/11/2025,11,Ravi Girls,Hostel,200,0,0,373,59.8
+20/11/2025,11,Satluj,Hostel,350,0,0,570,79.64
+20/11/2025,11,Chenab,Hostel,350,0,0,575,80.87
+20/11/2025,11,beas,Hostel,300,0,0,507,51.36
+20/11/2025,11,T6 PhD,Hostel,200,0,0,382,70.6
+20/11/2025,11,Faculty Quarters,Residential,100,0,0,198,31.34
+20/11/2025,11,CS Department,Academic,120,0,1,249,47.57
+20/11/2025,11,Electrical Department,Academic,110,0,1,249,31.36
+20/11/2025,11,Mechanical Department,Academic,130,0,1,279,28.85
+20/11/2025,11,AI Center,Academic,80,0,1,248,34.95
+20/11/2025,11,Central Library,Academic,150,0,1,308,57.32
+20/11/2025,11,Admin Block,Academic,70,0,1,224,39.87
+20/11/2025,11,Central Mess,Facility,400,0,0,629,93.56
+20/11/2025,11,Central Labs,Facility,90,0,0,203,28.93
+20/11/2025,11,Street Lighting,Facility,0,0,0,313,54.51
+20/11/2025,11,Sports Complex,Facility,60,0,0,172,21.64
+21/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,792,112.6
+21/11/2025,11,Ravi Girls,Hostel,200,0,0,388,45.46
+21/11/2025,11,Satluj,Hostel,350,0,0,565,102.98
+21/11/2025,11,Chenab,Hostel,350,0,0,596,93.96
+21/11/2025,11,beas,Hostel,300,0,0,506,71.11
+21/11/2025,11,T6 PhD,Hostel,200,0,0,371,44.76
+21/11/2025,11,Faculty Quarters,Residential,100,0,0,200,25.27
+21/11/2025,11,CS Department,Academic,120,0,1,274,43.77
+21/11/2025,11,Electrical Department,Academic,110,0,1,245,38.55
+21/11/2025,11,Mechanical Department,Academic,130,0,1,277,38.31
+21/11/2025,11,AI Center,Academic,80,0,1,213,24.84
+21/11/2025,11,Central Library,Academic,150,0,1,310,54.9
+21/11/2025,11,Admin Block,Academic,70,0,1,213,27.45
+21/11/2025,11,Central Mess,Facility,400,0,0,658,85.35
+21/11/2025,11,Central Labs,Facility,90,0,0,205,28.63
+21/11/2025,11,Street Lighting,Facility,0,0,0,321,55.62
+21/11/2025,11,Sports Complex,Facility,60,0,0,183,28.18
+22/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,792,146.24
+22/11/2025,11,Ravi Girls,Hostel,200,0,0,402,53.64
+22/11/2025,11,Satluj,Hostel,350,0,0,563,60.53
+22/11/2025,11,Chenab,Hostel,350,0,0,579,98.72
+22/11/2025,11,beas,Hostel,300,0,0,514,64.07
+22/11/2025,11,T6 PhD,Hostel,200,0,0,396,39.69
+22/11/2025,11,Faculty Quarters,Residential,100,0,0,217,34.51
+22/11/2025,11,CS Department,Academic,120,0,1,264,51.49
+22/11/2025,11,Electrical Department,Academic,110,0,1,250,38.55
+22/11/2025,11,Mechanical Department,Academic,130,0,1,264,43.27
+22/11/2025,11,AI Center,Academic,80,0,1,248,41.97
+22/11/2025,11,Central Library,Academic,150,0,1,299,56.91
+22/11/2025,11,Admin Block,Academic,70,0,1,228,23.98
+22/11/2025,11,Central Mess,Facility,400,0,0,631,107.62
+22/11/2025,11,Central Labs,Facility,90,0,0,194,30.18
+22/11/2025,11,Street Lighting,Facility,0,0,0,306,31.64
+22/11/2025,11,Sports Complex,Facility,60,0,0,156,18.6
+23/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,772,138.6
+23/11/2025,11,Ravi Girls,Hostel,200,0,0,398,57.91
+23/11/2025,11,Satluj,Hostel,350,0,0,593,61.49
+23/11/2025,11,Chenab,Hostel,350,0,0,589,91.92
+23/11/2025,11,beas,Hostel,300,0,0,492,83.46
+23/11/2025,11,T6 PhD,Hostel,200,0,0,382,40.7
+23/11/2025,11,Faculty Quarters,Residential,100,0,0,183,32.77
+23/11/2025,11,CS Department,Academic,120,0,1,265,40.28
+23/11/2025,11,Electrical Department,Academic,110,0,1,240,24.59
+23/11/2025,11,Mechanical Department,Academic,130,0,1,286,28.61
+23/11/2025,11,AI Center,Academic,80,0,1,229,44.4
+23/11/2025,11,Central Library,Academic,150,0,1,313,31.6
+23/11/2025,11,Admin Block,Academic,70,0,1,231,23.97
+23/11/2025,11,Central Mess,Facility,400,0,0,615,115.23
+23/11/2025,11,Central Labs,Facility,90,0,0,181,19.76
+23/11/2025,11,Street Lighting,Facility,0,0,0,319,55.43
+23/11/2025,11,Sports Complex,Facility,60,0,0,150,22.01
+24/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,799,103.58
+24/11/2025,11,Ravi Girls,Hostel,200,0,0,384,49.05
+24/11/2025,11,Satluj,Hostel,350,0,0,569,81.24
+24/11/2025,11,Chenab,Hostel,350,0,0,578,64.99
+24/11/2025,11,beas,Hostel,300,0,0,526,93.96
+24/11/2025,11,T6 PhD,Hostel,200,0,0,365,72.36
+24/11/2025,11,Faculty Quarters,Residential,100,0,0,203,29.79
+24/11/2025,11,CS Department,Academic,120,0,1,272,47.42
+24/11/2025,11,Electrical Department,Academic,110,0,1,246,47.79
+24/11/2025,11,Mechanical Department,Academic,130,0,1,266,27.85
+24/11/2025,11,AI Center,Academic,80,0,1,214,39.08
+24/11/2025,11,Central Library,Academic,150,0,1,297,55.95
+24/11/2025,11,Admin Block,Academic,70,0,1,237,41.67
+24/11/2025,11,Central Mess,Facility,400,0,0,602,109.31
+24/11/2025,11,Central Labs,Facility,90,0,0,196,31.22
+24/11/2025,11,Street Lighting,Facility,0,0,0,333,48.53
+24/11/2025,11,Sports Complex,Facility,60,0,0,175,25.84
+25/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,783,145.8
+25/11/2025,11,Ravi Girls,Hostel,200,0,0,399,77.07
+25/11/2025,11,Satluj,Hostel,350,0,0,588,82.82
+25/11/2025,11,Chenab,Hostel,350,0,0,562,95.3
+25/11/2025,11,beas,Hostel,300,0,0,507,54.81
+25/11/2025,11,T6 PhD,Hostel,200,0,0,372,70.47
+25/11/2025,11,Faculty Quarters,Residential,100,0,0,219,41.24
+25/11/2025,11,CS Department,Academic,120,0,1,250,33.7
+25/11/2025,11,Electrical Department,Academic,110,0,1,265,49.41
+25/11/2025,11,Mechanical Department,Academic,130,0,1,280,50.33
+25/11/2025,11,AI Center,Academic,80,0,1,244,28.24
+25/11/2025,11,Central Library,Academic,150,0,1,287,52.72
+25/11/2025,11,Admin Block,Academic,70,0,1,238,38.52
+25/11/2025,11,Central Mess,Facility,400,0,0,606,114.03
+25/11/2025,11,Central Labs,Facility,90,0,0,202,36.88
+25/11/2025,11,Street Lighting,Facility,0,0,0,342,42.02
+25/11/2025,11,Sports Complex,Facility,60,0,0,165,30
+26/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,778,97.93
+26/11/2025,11,Ravi Girls,Hostel,200,0,0,372,60.15
+26/11/2025,11,Satluj,Hostel,350,0,0,571,63.71
+26/11/2025,11,Chenab,Hostel,350,0,0,578,105.12
+26/11/2025,11,beas,Hostel,300,0,0,508,89.46
+26/11/2025,11,T6 PhD,Hostel,200,0,0,391,71.95
+26/11/2025,11,Faculty Quarters,Residential,100,0,0,194,37.48
+26/11/2025,11,CS Department,Academic,120,0,1,251,29.46
+26/11/2025,11,Electrical Department,Academic,110,0,1,242,31.48
+26/11/2025,11,Mechanical Department,Academic,130,0,1,278,47.5
+26/11/2025,11,AI Center,Academic,80,0,1,233,37.77
+26/11/2025,11,Central Library,Academic,150,0,1,288,56.84
+26/11/2025,11,Admin Block,Academic,70,0,1,238,39.21
+26/11/2025,11,Central Mess,Facility,400,0,0,675,69.16
+26/11/2025,11,Central Labs,Facility,90,0,0,177,24.28
+26/11/2025,11,Street Lighting,Facility,0,0,0,310,52.18
+26/11/2025,11,Sports Complex,Facility,60,0,0,181,36.15
+27/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,762,141.29
+27/11/2025,11,Ravi Girls,Hostel,200,0,0,388,65.71
+27/11/2025,11,Satluj,Hostel,350,0,0,556,98.57
+27/11/2025,11,Chenab,Hostel,350,0,0,565,71.94
+27/11/2025,11,beas,Hostel,300,0,0,533,54.97
+27/11/2025,11,T6 PhD,Hostel,200,0,0,406,57.64
+27/11/2025,11,Faculty Quarters,Residential,100,0,0,185,32.56
+27/11/2025,11,CS Department,Academic,120,0,1,248,32.75
+27/11/2025,11,Electrical Department,Academic,110,0,1,272,33
+27/11/2025,11,Mechanical Department,Academic,130,0,1,281,48.19
+27/11/2025,11,AI Center,Academic,80,0,1,227,35.03
+27/11/2025,11,Central Library,Academic,150,0,1,299,55.87
+27/11/2025,11,Admin Block,Academic,70,0,1,217,31.55
+27/11/2025,11,Central Mess,Facility,400,0,0,670,108.96
+27/11/2025,11,Central Labs,Facility,90,0,0,195,37.46
+27/11/2025,11,Street Lighting,Facility,0,0,0,345,50.44
+27/11/2025,11,Sports Complex,Facility,60,0,0,154,17.33
+28/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,785,122.34
+28/11/2025,11,Ravi Girls,Hostel,200,0,0,381,60.27
+28/11/2025,11,Satluj,Hostel,350,0,0,578,82.84
+28/11/2025,11,Chenab,Hostel,350,0,0,571,57.76
+28/11/2025,11,beas,Hostel,300,0,0,507,75.03
+28/11/2025,11,T6 PhD,Hostel,200,0,0,391,64.79
+28/11/2025,11,Faculty Quarters,Residential,100,0,0,217,41.4
+28/11/2025,11,CS Department,Academic,120,0,1,271,31.05
+28/11/2025,11,Electrical Department,Academic,110,0,1,270,27.5
+28/11/2025,11,Mechanical Department,Academic,130,0,1,284,48.35
+28/11/2025,11,AI Center,Academic,80,0,1,243,47.17
+28/11/2025,11,Central Library,Academic,150,0,1,307,33.4
+28/11/2025,11,Admin Block,Academic,70,0,1,235,42.88
+28/11/2025,11,Central Mess,Facility,400,0,0,665,131.5
+28/11/2025,11,Central Labs,Facility,90,0,0,186,22.32
+28/11/2025,11,Street Lighting,Facility,0,0,0,348,67.91
+28/11/2025,11,Sports Complex,Facility,60,0,0,153,24.4
+29/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,780,120.22
+29/11/2025,11,Ravi Girls,Hostel,200,0,0,367,71.47
+29/11/2025,11,Satluj,Hostel,350,0,0,574,76.88
+29/11/2025,11,Chenab,Hostel,350,0,0,561,93.17
+29/11/2025,11,beas,Hostel,300,0,0,495,89.96
+29/11/2025,11,T6 PhD,Hostel,200,0,0,362,37.68
+29/11/2025,11,Faculty Quarters,Residential,100,0,0,193,20.88
+29/11/2025,11,CS Department,Academic,120,0,1,270,44.56
+29/11/2025,11,Electrical Department,Academic,110,0,1,257,50.78
+29/11/2025,11,Mechanical Department,Academic,130,0,1,264,49.42
+29/11/2025,11,AI Center,Academic,80,0,1,243,36.41
+29/11/2025,11,Central Library,Academic,150,0,1,292,48.28
+29/11/2025,11,Admin Block,Academic,70,0,1,205,22.17
+29/11/2025,11,Central Mess,Facility,400,0,0,660,70.77
+29/11/2025,11,Central Labs,Facility,90,0,0,204,37.55
+29/11/2025,11,Street Lighting,Facility,0,0,0,320,55.27
+29/11/2025,11,Sports Complex,Facility,60,0,0,167,27.2
+30/11/2025,11,Brahmaputra Girls,Hostel,500,0,0,769,115.72
+30/11/2025,11,Ravi Girls,Hostel,200,0,0,391,62.09
+30/11/2025,11,Satluj,Hostel,350,0,0,588,87.42
+30/11/2025,11,Chenab,Hostel,350,0,0,588,105.43
+30/11/2025,11,beas,Hostel,300,0,0,501,69.33
+30/11/2025,11,T6 PhD,Hostel,200,0,0,380,65.86
+30/11/2025,11,Faculty Quarters,Residential,100,0,0,187,26.28
+30/11/2025,11,CS Department,Academic,120,0,1,261,51.45
+30/11/2025,11,Electrical Department,Academic,110,0,1,243,25.98
+30/11/2025,11,Mechanical Department,Academic,130,0,1,270,40.9
+30/11/2025,11,AI Center,Academic,80,0,1,213,23.33
+30/11/2025,11,Central Library,Academic,150,0,1,299,58.89
+30/11/2025,11,Admin Block,Academic,70,0,1,239,24.12
+30/11/2025,11,Central Mess,Facility,400,0,0,675,76.33
+30/11/2025,11,Central Labs,Facility,90,0,0,202,24.97
+30/11/2025,11,Street Lighting,Facility,0,0,0,313,41.66
+30/11/2025,11,Sports Complex,Facility,60,0,0,159,29.08
+01/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,184,29.22
+01/12/2025,12,Ravi Girls,Hostel,20,0,0,145,20
+01/12/2025,12,Satluj,Hostel,35,0,0,191.5,31.86
+01/12/2025,12,Chenab,Hostel,35,0,0,193.5,33
+01/12/2025,12,beas,Hostel,30,0,0,185,34.56
+01/12/2025,12,T6 PhD,Hostel,200,1,0,499,63.36
+01/12/2025,12,Faculty Quarters,Residential,100,0,0,216,41.83
+01/12/2025,12,CS Department,Academic,36,0,1,206.4,29.97
+01/12/2025,12,Electrical Department,Academic,33,0,1,173.7,19.16
+01/12/2025,12,Mechanical Department,Academic,39,0,1,186.1,21.37
+01/12/2025,12,AI Center,Academic,24,0,1,184.6,31.12
+01/12/2025,12,Central Library,Academic,45,0,1,204.5,33.52
+01/12/2025,12,Admin Block,Academic,21,0,1,188.9,23.69
+01/12/2025,12,Central Mess,Facility,100,0,0,472,78.68
+01/12/2025,12,Central Labs,Facility,90,0,0,187,36.27
+01/12/2025,12,Street Lighting,Facility,0,0,0,307,60.48
+01/12/2025,12,Sports Complex,Facility,60,0,0,155,17.92
+02/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,331,38.96
+02/12/2025,12,Ravi Girls,Hostel,20,0,0,151,20.75
+02/12/2025,12,Satluj,Hostel,35,1,0,282.5,45.7
+02/12/2025,12,Chenab,Hostel,35,0,0,184.5,32.63
+02/12/2025,12,beas,Hostel,30,1,0,283,47.81
+02/12/2025,12,T6 PhD,Hostel,200,0,0,378,73.37
+02/12/2025,12,Faculty Quarters,Residential,100,0,0,184,29.02
+02/12/2025,12,CS Department,Academic,36,0,1,173.4,34.67
+02/12/2025,12,Electrical Department,Academic,33,0,1,177.7,33.17
+02/12/2025,12,Mechanical Department,Academic,39,0,1,187.1,33.35
+02/12/2025,12,AI Center,Academic,24,0,1,171.6,32.24
+02/12/2025,12,Central Library,Academic,45,0,1,183.5,30.6
+02/12/2025,12,Admin Block,Academic,21,0,1,175.9,33.03
+02/12/2025,12,Central Mess,Facility,100,0,0,524,72.09
+02/12/2025,12,Central Labs,Facility,90,0,0,178,17.9
+02/12/2025,12,Street Lighting,Facility,0,0,0,311,50.07
+02/12/2025,12,Sports Complex,Facility,60,0,0,166,23.05
+03/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,213,32.92
+03/12/2025,12,Ravi Girls,Hostel,20,0,0,163,17.49
+03/12/2025,12,Satluj,Hostel,35,0,0,190.5,31.29
+03/12/2025,12,Chenab,Hostel,35,0,0,153.5,21.18
+03/12/2025,12,beas,Hostel,30,0,0,186,34.36
+03/12/2025,12,T6 PhD,Hostel,200,0,0,388,52.04
+03/12/2025,12,Faculty Quarters,Residential,100,0,0,213,32.52
+03/12/2025,12,CS Department,Academic,36,0,1,207.4,33.35
+03/12/2025,12,Electrical Department,Academic,33,0,1,174.7,30.52
+03/12/2025,12,Mechanical Department,Academic,39,0,1,195.1,23.33
+03/12/2025,12,AI Center,Academic,24,0,1,175.6,21.84
+03/12/2025,12,Central Library,Academic,45,0,1,194.5,23.28
+03/12/2025,12,Admin Block,Academic,21,0,1,176.9,19.48
+03/12/2025,12,Central Mess,Facility,100,0,0,501,83.67
+03/12/2025,12,Central Labs,Facility,90,0,0,199,30.63
+03/12/2025,12,Street Lighting,Facility,0,0,0,335,57.54
+03/12/2025,12,Sports Complex,Facility,60,0,0,160,22.62
+04/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,295,33.14
+04/12/2025,12,Ravi Girls,Hostel,20,0,0,164,25.01
+04/12/2025,12,Satluj,Hostel,35,0,0,193.5,30.33
+04/12/2025,12,Chenab,Hostel,35,1,0,300.5,42.81
+04/12/2025,12,beas,Hostel,30,1,0,259,35.57
+04/12/2025,12,T6 PhD,Hostel,200,0,0,406,79.23
+04/12/2025,12,Faculty Quarters,Residential,100,0,0,200,37.68
+04/12/2025,12,CS Department,Academic,36,0,1,180.4,29.7
+04/12/2025,12,Electrical Department,Academic,33,0,1,176.7,31.27
+04/12/2025,12,Mechanical Department,Academic,39,0,1,201.1,35.81
+04/12/2025,12,AI Center,Academic,24,0,1,179.6,33.25
+04/12/2025,12,Central Library,Academic,45,0,1,204.5,22.4
+04/12/2025,12,Admin Block,Academic,21,0,1,190.9,27.18
+04/12/2025,12,Central Mess,Facility,100,0,0,498,86.5
+04/12/2025,12,Central Labs,Facility,90,0,0,192,21.04
+04/12/2025,12,Street Lighting,Facility,0,0,0,314,38.63
+04/12/2025,12,Sports Complex,Facility,60,0,0,158,19.46
+05/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,189,37.57
+05/12/2025,12,Ravi Girls,Hostel,20,1,0,266,44.58
+05/12/2025,12,Satluj,Hostel,35,0,0,183.5,31.64
+05/12/2025,12,Chenab,Hostel,35,1,0,288.5,32.55
+05/12/2025,12,beas,Hostel,30,1,0,284,37.98
+05/12/2025,12,T6 PhD,Hostel,200,0,0,404,43.61
+05/12/2025,12,Faculty Quarters,Residential,100,0,0,212,33.83
+05/12/2025,12,CS Department,Academic,36,0,1,204.4,25.07
+05/12/2025,12,Electrical Department,Academic,33,0,1,172.7,24.91
+05/12/2025,12,Mechanical Department,Academic,39,0,1,179.1,19.16
+05/12/2025,12,AI Center,Academic,24,0,1,168.6,31.7
+05/12/2025,12,Central Library,Academic,45,0,1,182.5,21.72
+05/12/2025,12,Admin Block,Academic,21,0,1,159.9,21.79
+05/12/2025,12,Central Mess,Facility,100,0,0,479,63.88
+05/12/2025,12,Central Labs,Facility,90,0,0,207,40.61
+05/12/2025,12,Street Lighting,Facility,0,0,0,346,41.55
+05/12/2025,12,Sports Complex,Facility,60,0,0,177,25.67
+06/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,181,23.55
+06/12/2025,12,Ravi Girls,Hostel,20,0,0,128,24.67
+06/12/2025,12,Satluj,Hostel,35,1,0,292.5,57.74
+06/12/2025,12,Chenab,Hostel,35,1,0,284.5,54.82
+06/12/2025,12,beas,Hostel,30,0,0,168,25.55
+06/12/2025,12,T6 PhD,Hostel,200,0,0,377,67.4
+06/12/2025,12,Faculty Quarters,Residential,100,0,0,195,29.38
+06/12/2025,12,CS Department,Academic,36,0,1,185.4,20.72
+06/12/2025,12,Electrical Department,Academic,33,0,1,170.7,23.57
+06/12/2025,12,Mechanical Department,Academic,39,0,1,183.1,27.64
+06/12/2025,12,AI Center,Academic,24,0,1,183.6,35.66
+06/12/2025,12,Central Library,Academic,45,0,1,185.5,35.6
+06/12/2025,12,Admin Block,Academic,21,0,1,179.9,28.18
+06/12/2025,12,Central Mess,Facility,100,0,0,461,89
+06/12/2025,12,Central Labs,Facility,90,0,0,189,30.77
+06/12/2025,12,Street Lighting,Facility,0,0,0,341,63.7
+06/12/2025,12,Sports Complex,Facility,60,0,0,163,19.76
+07/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,179,25.11
+07/12/2025,12,Ravi Girls,Hostel,20,1,0,247,30.22
+07/12/2025,12,Satluj,Hostel,35,0,0,162.5,26.67
+07/12/2025,12,Chenab,Hostel,35,0,0,169.5,25.08
+07/12/2025,12,beas,Hostel,30,0,0,169,25.13
+07/12/2025,12,T6 PhD,Hostel,200,0,0,405,47.58
+07/12/2025,12,Faculty Quarters,Residential,100,0,0,185,21.21
+07/12/2025,12,CS Department,Academic,36,0,1,179.4,26.52
+07/12/2025,12,Electrical Department,Academic,33,0,1,183.7,36.06
+07/12/2025,12,Mechanical Department,Academic,39,0,1,206.1,23.13
+07/12/2025,12,AI Center,Academic,24,0,1,191.6,28.86
+07/12/2025,12,Central Library,Academic,45,0,1,185.5,18.56
+07/12/2025,12,Admin Block,Academic,21,0,1,159.9,26.39
+07/12/2025,12,Central Mess,Facility,100,0,0,454,80.85
+07/12/2025,12,Central Labs,Facility,90,0,0,173,25.68
+07/12/2025,12,Street Lighting,Facility,0,0,0,330,55.94
+07/12/2025,12,Sports Complex,Facility,60,0,0,166,19.43
+08/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,312,40.66
+08/12/2025,12,Ravi Girls,Hostel,20,1,0,261,44.15
+08/12/2025,12,Satluj,Hostel,35,0,0,148.5,29.65
+08/12/2025,12,Chenab,Hostel,35,0,0,183.5,22.4
+08/12/2025,12,beas,Hostel,30,1,0,294,44.9
+08/12/2025,12,T6 PhD,Hostel,200,0,0,396,74.71
+08/12/2025,12,Faculty Quarters,Residential,100,0,0,214,29.27
+08/12/2025,12,CS Department,Academic,36,0,1,185.4,21.82
+08/12/2025,12,Electrical Department,Academic,33,0,1,173.7,17.56
+08/12/2025,12,Mechanical Department,Academic,39,0,1,201.1,28.53
+08/12/2025,12,AI Center,Academic,24,0,1,181.6,31.97
+08/12/2025,12,Central Library,Academic,45,0,1,218.5,35.37
+08/12/2025,12,Admin Block,Academic,21,0,1,183.9,22.83
+08/12/2025,12,Central Mess,Facility,100,0,0,494,51.51
+08/12/2025,12,Central Labs,Facility,90,0,0,182,26.47
+08/12/2025,12,Street Lighting,Facility,0,0,0,325,36.63
+08/12/2025,12,Sports Complex,Facility,60,0,0,165,24.35
+09/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,193,28.17
+09/12/2025,12,Ravi Girls,Hostel,20,0,0,138,15.64
+09/12/2025,12,Satluj,Hostel,35,1,0,273.5,53.14
+09/12/2025,12,Chenab,Hostel,35,0,0,192.5,24.15
+09/12/2025,12,beas,Hostel,30,0,0,178,26.01
+09/12/2025,12,T6 PhD,Hostel,200,0,0,393,54.48
+09/12/2025,12,Faculty Quarters,Residential,100,0,0,194,36.65
+09/12/2025,12,CS Department,Academic,36,0,1,190.4,21.05
+09/12/2025,12,Electrical Department,Academic,33,0,1,191.7,32.21
+09/12/2025,12,Mechanical Department,Academic,39,0,1,197.1,33.83
+09/12/2025,12,AI Center,Academic,24,0,1,184.6,20.41
+09/12/2025,12,Central Library,Academic,45,0,1,199.5,34.66
+09/12/2025,12,Admin Block,Academic,21,0,1,193.9,26.17
+09/12/2025,12,Central Mess,Facility,100,0,0,456,81.34
+09/12/2025,12,Central Labs,Facility,90,0,0,176,27.27
+09/12/2025,12,Street Lighting,Facility,0,0,0,307,38.84
+09/12/2025,12,Sports Complex,Facility,60,0,0,179,27.11
+10/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,172,30.43
+10/12/2025,12,Ravi Girls,Hostel,20,0,0,127,21.18
+10/12/2025,12,Satluj,Hostel,35,1,0,300.5,48.53
+10/12/2025,12,Chenab,Hostel,35,0,0,185.5,36.35
+10/12/2025,12,beas,Hostel,30,0,0,188,24.86
+10/12/2025,12,T6 PhD,Hostel,200,1,0,506,100.19
+10/12/2025,12,Faculty Quarters,Residential,100,0,0,211,36.88
+10/12/2025,12,CS Department,Academic,36,0,1,205.4,23.17
+10/12/2025,12,Electrical Department,Academic,33,0,1,208.7,33.36
+10/12/2025,12,Mechanical Department,Academic,39,0,1,214.1,30.66
+10/12/2025,12,AI Center,Academic,24,0,1,185.6,21.6
+10/12/2025,12,Central Library,Academic,45,0,1,199.5,22.37
+10/12/2025,12,Admin Block,Academic,21,0,1,178.9,23
+10/12/2025,12,Central Mess,Facility,100,0,0,488,90.11
+10/12/2025,12,Central Labs,Facility,90,0,0,189,30.92
+10/12/2025,12,Street Lighting,Facility,0,0,0,307,53.67
+10/12/2025,12,Sports Complex,Facility,60,0,0,170,28.15
+11/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,306,53.65
+11/12/2025,12,Ravi Girls,Hostel,20,1,0,273,28.48
+11/12/2025,12,Satluj,Hostel,35,1,0,293.5,49.46
+11/12/2025,12,Chenab,Hostel,35,1,0,314.5,38.16
+11/12/2025,12,beas,Hostel,30,0,0,162,21.75
+11/12/2025,12,T6 PhD,Hostel,200,0,0,396,62.98
+11/12/2025,12,Faculty Quarters,Residential,100,0,0,198,22.8
+11/12/2025,12,CS Department,Academic,36,0,1,196.4,34.59
+11/12/2025,12,Electrical Department,Academic,33,0,1,184.7,33.46
+11/12/2025,12,Mechanical Department,Academic,39,0,1,177.1,35.27
+11/12/2025,12,AI Center,Academic,24,0,1,192.6,36.21
+11/12/2025,12,Central Library,Academic,45,0,1,204.5,31.8
+11/12/2025,12,Admin Block,Academic,21,0,1,196.9,31.8
+11/12/2025,12,Central Mess,Facility,100,0,0,462,71.09
+11/12/2025,12,Central Labs,Facility,90,0,0,197,36.25
+11/12/2025,12,Street Lighting,Facility,0,0,0,313,37.64
+11/12/2025,12,Sports Complex,Facility,60,0,0,167,22.16
+12/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,290,54.42
+12/12/2025,12,Ravi Girls,Hostel,20,0,0,129,17.87
+12/12/2025,12,Satluj,Hostel,35,0,0,154.5,29.14
+12/12/2025,12,Chenab,Hostel,35,0,0,181.5,30.18
+12/12/2025,12,beas,Hostel,30,1,0,297,29.8
+12/12/2025,12,T6 PhD,Hostel,200,0,0,363,42.88
+12/12/2025,12,Faculty Quarters,Residential,100,0,0,196,31.13
+12/12/2025,12,CS Department,Academic,36,0,1,185.4,31.95
+12/12/2025,12,Electrical Department,Academic,33,0,1,172.7,18.18
+12/12/2025,12,Mechanical Department,Academic,39,0,1,204.1,36.84
+12/12/2025,12,AI Center,Academic,24,0,1,179.6,26.91
+12/12/2025,12,Central Library,Academic,45,0,1,201.5,34.16
+12/12/2025,12,Admin Block,Academic,21,0,1,195.9,23.7
+12/12/2025,12,Central Mess,Facility,100,0,0,468,67.4
+12/12/2025,12,Central Labs,Facility,90,0,0,204,22.21
+12/12/2025,12,Street Lighting,Facility,0,0,0,327,56.76
+12/12/2025,12,Sports Complex,Facility,60,0,0,180,25.58
+13/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,212,24.98
+13/12/2025,12,Ravi Girls,Hostel,20,0,0,172,31.64
+13/12/2025,12,Satluj,Hostel,35,0,0,153.5,29.94
+13/12/2025,12,Chenab,Hostel,35,1,0,274.5,36.63
+13/12/2025,12,beas,Hostel,30,1,0,307,48.68
+13/12/2025,12,T6 PhD,Hostel,200,0,0,365,55.41
+13/12/2025,12,Faculty Quarters,Residential,100,0,0,198,24.93
+13/12/2025,12,CS Department,Academic,36,0,1,176.4,32.49
+13/12/2025,12,Electrical Department,Academic,33,0,1,189.7,27.66
+13/12/2025,12,Mechanical Department,Academic,39,0,1,180.1,29.38
+13/12/2025,12,AI Center,Academic,24,0,1,199.6,29.87
+13/12/2025,12,Central Library,Academic,45,0,1,215.5,38.05
+13/12/2025,12,Admin Block,Academic,21,0,1,188.9,36.32
+13/12/2025,12,Central Mess,Facility,100,0,0,479,61.44
+13/12/2025,12,Central Labs,Facility,90,0,0,193,24.35
+13/12/2025,12,Street Lighting,Facility,0,0,0,327,58.44
+13/12/2025,12,Sports Complex,Facility,60,0,0,163,28.68
+14/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,177,22.45
+14/12/2025,12,Ravi Girls,Hostel,20,1,0,281,29.04
+14/12/2025,12,Satluj,Hostel,35,1,0,307.5,35.03
+14/12/2025,12,Chenab,Hostel,35,0,0,177.5,31.45
+14/12/2025,12,beas,Hostel,30,1,0,273,27.9
+14/12/2025,12,T6 PhD,Hostel,200,0,0,379,42.75
+14/12/2025,12,Faculty Quarters,Residential,100,0,0,200,21.05
+14/12/2025,12,CS Department,Academic,36,0,1,185.4,32.09
+14/12/2025,12,Electrical Department,Academic,33,0,1,186.7,21.38
+14/12/2025,12,Mechanical Department,Academic,39,0,1,211.1,33.04
+14/12/2025,12,AI Center,Academic,24,0,1,185.6,36.14
+14/12/2025,12,Central Library,Academic,45,0,1,212.5,24.46
+14/12/2025,12,Admin Block,Academic,21,0,1,164.9,27.77
+14/12/2025,12,Central Mess,Facility,100,0,0,473,52.73
+14/12/2025,12,Central Labs,Facility,90,0,0,210,35.86
+14/12/2025,12,Street Lighting,Facility,0,0,0,305,37.4
+14/12/2025,12,Sports Complex,Facility,60,0,0,157,18.3
+15/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,212,25.78
+15/12/2025,12,Ravi Girls,Hostel,20,1,0,261,36.85
+15/12/2025,12,Satluj,Hostel,35,0,0,166.5,21.49
+15/12/2025,12,Chenab,Hostel,35,0,0,182.5,32.97
+15/12/2025,12,beas,Hostel,30,0,0,187,22.47
+15/12/2025,12,T6 PhD,Hostel,200,1,0,499,77.09
+15/12/2025,12,Faculty Quarters,Residential,100,0,0,201,20.46
+15/12/2025,12,CS Department,Academic,36,0,1,186.4,35.04
+15/12/2025,12,Electrical Department,Academic,33,0,1,195.7,38.1
+15/12/2025,12,Mechanical Department,Academic,39,0,1,202.1,35.81
+15/12/2025,12,AI Center,Academic,24,0,1,185.6,20.31
+15/12/2025,12,Central Library,Academic,45,0,1,212.5,29.55
+15/12/2025,12,Admin Block,Academic,21,0,1,196.9,32.62
+15/12/2025,12,Central Mess,Facility,100,0,0,499,54.56
+15/12/2025,12,Central Labs,Facility,90,0,0,182,21.91
+15/12/2025,12,Street Lighting,Facility,0,0,0,323,43.82
+15/12/2025,12,Sports Complex,Facility,60,0,0,184,30.08
+16/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,211,25.23
+16/12/2025,12,Ravi Girls,Hostel,20,0,0,143,16.56
+16/12/2025,12,Satluj,Hostel,35,0,0,156.5,18.25
+16/12/2025,12,Chenab,Hostel,35,0,0,189.5,36.12
+16/12/2025,12,beas,Hostel,30,1,0,298,44.91
+16/12/2025,12,T6 PhD,Hostel,200,0,0,367,69.51
+16/12/2025,12,Faculty Quarters,Residential,100,0,0,216,31.11
+16/12/2025,12,CS Department,Academic,36,0,1,190.4,35.84
+16/12/2025,12,Electrical Department,Academic,33,0,1,184.7,36.73
+16/12/2025,12,Mechanical Department,Academic,39,0,1,195.1,33.66
+16/12/2025,12,AI Center,Academic,24,0,1,188.6,35.49
+16/12/2025,12,Central Library,Academic,45,0,1,206.5,34.83
+16/12/2025,12,Admin Block,Academic,21,0,1,161.9,27.84
+16/12/2025,12,Central Mess,Facility,100,0,0,454,89.59
+16/12/2025,12,Central Labs,Facility,90,0,0,180,32.74
+16/12/2025,12,Street Lighting,Facility,0,0,0,318,55.95
+16/12/2025,12,Sports Complex,Facility,60,0,0,149,27.14
+17/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,185,23.2
+17/12/2025,12,Ravi Girls,Hostel,20,0,0,137,18.29
+17/12/2025,12,Satluj,Hostel,35,1,0,285.5,31.77
+17/12/2025,12,Chenab,Hostel,35,1,0,297.5,36.89
+17/12/2025,12,beas,Hostel,30,1,0,299,52.02
+17/12/2025,12,T6 PhD,Hostel,200,1,0,490,80.91
+17/12/2025,12,Faculty Quarters,Residential,100,0,0,201,34.94
+17/12/2025,12,CS Department,Academic,36,0,1,201.4,39.86
+17/12/2025,12,Electrical Department,Academic,33,0,1,188.7,32.82
+17/12/2025,12,Mechanical Department,Academic,39,0,1,209.1,35.26
+17/12/2025,12,AI Center,Academic,24,0,1,199.6,23.3
+17/12/2025,12,Central Library,Academic,45,0,1,180.5,33.16
+17/12/2025,12,Admin Block,Academic,21,0,1,160.9,27.26
+17/12/2025,12,Central Mess,Facility,100,0,0,487,66.25
+17/12/2025,12,Central Labs,Facility,90,0,0,185,35.22
+17/12/2025,12,Street Lighting,Facility,0,0,0,308,55.08
+17/12/2025,12,Sports Complex,Facility,60,0,0,165,27.24
+18/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,191,29.8
+18/12/2025,12,Ravi Girls,Hostel,20,1,0,291,42.5
+18/12/2025,12,Satluj,Hostel,35,0,0,152.5,17.21
+18/12/2025,12,Chenab,Hostel,35,0,0,158.5,23.44
+18/12/2025,12,beas,Hostel,30,1,0,298,51.85
+18/12/2025,12,T6 PhD,Hostel,200,0,0,382,43.07
+18/12/2025,12,Faculty Quarters,Residential,100,0,0,182,31.92
+18/12/2025,12,CS Department,Academic,36,0,1,191.4,37.93
+18/12/2025,12,Electrical Department,Academic,33,0,1,177.7,23.19
+18/12/2025,12,Mechanical Department,Academic,39,0,1,193.1,36.16
+18/12/2025,12,AI Center,Academic,24,0,1,198.6,22.25
+18/12/2025,12,Central Library,Academic,45,0,1,196.5,24.4
+18/12/2025,12,Admin Block,Academic,21,0,1,182.9,33.37
+18/12/2025,12,Central Mess,Facility,100,0,0,508,87.9
+18/12/2025,12,Central Labs,Facility,90,0,0,175,32.85
+18/12/2025,12,Street Lighting,Facility,0,0,0,345,46.24
+18/12/2025,12,Sports Complex,Facility,60,0,0,163,20.2
+19/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,194,27.73
+19/12/2025,12,Ravi Girls,Hostel,20,1,0,291,54
+19/12/2025,12,Satluj,Hostel,35,0,0,149.5,18.72
+19/12/2025,12,Chenab,Hostel,35,1,0,308.5,34.4
+19/12/2025,12,beas,Hostel,30,1,0,267,44.57
+19/12/2025,12,T6 PhD,Hostel,200,0,0,383,74.91
+19/12/2025,12,Faculty Quarters,Residential,100,0,0,202,28.89
+19/12/2025,12,CS Department,Academic,36,0,1,183.4,26.86
+19/12/2025,12,Electrical Department,Academic,33,0,1,187.7,35.52
+19/12/2025,12,Mechanical Department,Academic,39,0,1,214.1,41.71
+19/12/2025,12,AI Center,Academic,24,0,1,189.6,31.09
+19/12/2025,12,Central Library,Academic,45,0,1,207.5,22.91
+19/12/2025,12,Admin Block,Academic,21,0,1,160.9,26.58
+19/12/2025,12,Central Mess,Facility,100,0,0,483,71.14
+19/12/2025,12,Central Labs,Facility,90,0,0,179,29.25
+19/12/2025,12,Street Lighting,Facility,0,0,0,324,32.49
+19/12/2025,12,Sports Complex,Facility,60,0,0,153,16
+20/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,326,64.27
+20/12/2025,12,Ravi Girls,Hostel,20,0,0,174,28.23
+20/12/2025,12,Satluj,Hostel,35,0,0,192.5,24.65
+20/12/2025,12,Chenab,Hostel,35,1,0,277.5,42.65
+20/12/2025,12,beas,Hostel,30,0,0,187,22.8
+20/12/2025,12,T6 PhD,Hostel,200,1,0,512,68.55
+20/12/2025,12,Faculty Quarters,Residential,100,0,0,188,34.15
+20/12/2025,12,CS Department,Academic,36,0,1,188.4,20.98
+20/12/2025,12,Electrical Department,Academic,33,0,1,207.7,32.71
+20/12/2025,12,Mechanical Department,Academic,39,0,1,185.1,19.34
+20/12/2025,12,AI Center,Academic,24,0,1,161.6,22.46
+20/12/2025,12,Central Library,Academic,45,0,1,187.5,35.77
+20/12/2025,12,Admin Block,Academic,21,0,1,169.9,28.45
+20/12/2025,12,Central Mess,Facility,100,0,0,518,51.88
+20/12/2025,12,Central Labs,Facility,90,0,0,194,33.32
+20/12/2025,12,Street Lighting,Facility,0,0,0,348,55.81
+20/12/2025,12,Sports Complex,Facility,60,0,0,149,24.81
+21/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,200,27.38
+21/12/2025,12,Ravi Girls,Hostel,20,1,0,273,42.3
+21/12/2025,12,Satluj,Hostel,35,0,0,156.5,16.9
+21/12/2025,12,Chenab,Hostel,35,0,0,183.5,25.92
+21/12/2025,12,beas,Hostel,30,0,0,148,20.16
+21/12/2025,12,T6 PhD,Hostel,200,0,0,369,55.43
+21/12/2025,12,Faculty Quarters,Residential,100,0,0,188,30.32
+21/12/2025,12,CS Department,Academic,36,0,1,191.4,31.35
+21/12/2025,12,Electrical Department,Academic,33,0,1,197.7,21.08
+21/12/2025,12,Mechanical Department,Academic,39,0,1,214.1,38.97
+21/12/2025,12,AI Center,Academic,24,0,1,172.6,22.35
+21/12/2025,12,Central Library,Academic,45,0,1,194.5,20.3
+21/12/2025,12,Admin Block,Academic,21,0,1,188.9,27.7
+21/12/2025,12,Central Mess,Facility,100,0,0,487,89.88
+21/12/2025,12,Central Labs,Facility,90,0,0,189,26.53
+21/12/2025,12,Street Lighting,Facility,0,0,0,308,40.23
+21/12/2025,12,Sports Complex,Facility,60,0,0,181,25.05
+22/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,208,39.87
+22/12/2025,12,Ravi Girls,Hostel,20,0,0,165,31.18
+22/12/2025,12,Satluj,Hostel,35,1,0,300.5,41.86
+22/12/2025,12,Chenab,Hostel,35,0,0,178.5,20.83
+22/12/2025,12,beas,Hostel,30,0,0,142,14.84
+22/12/2025,12,T6 PhD,Hostel,200,0,0,406,46.87
+22/12/2025,12,Faculty Quarters,Residential,100,0,0,197,32.25
+22/12/2025,12,CS Department,Academic,36,0,1,202.4,36.26
+22/12/2025,12,Electrical Department,Academic,33,0,1,206.7,38.18
+22/12/2025,12,Mechanical Department,Academic,39,0,1,186.1,29.03
+22/12/2025,12,AI Center,Academic,24,0,1,165.6,20.34
+22/12/2025,12,Central Library,Academic,45,0,1,182.5,35.84
+22/12/2025,12,Admin Block,Academic,21,0,1,184.9,22.35
+22/12/2025,12,Central Mess,Facility,100,0,0,500,51.17
+22/12/2025,12,Central Labs,Facility,90,0,0,186,27.67
+22/12/2025,12,Street Lighting,Facility,0,0,0,336,65.72
+22/12/2025,12,Sports Complex,Facility,60,0,0,170,24.55
+23/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,173,34.32
+23/12/2025,12,Ravi Girls,Hostel,20,0,0,172,19.81
+23/12/2025,12,Satluj,Hostel,35,1,0,296.5,39.74
+23/12/2025,12,Chenab,Hostel,35,0,0,181.5,26.82
+23/12/2025,12,beas,Hostel,30,0,0,183,32.24
+23/12/2025,12,T6 PhD,Hostel,200,0,0,362,47.14
+23/12/2025,12,Faculty Quarters,Residential,100,0,0,200,26.85
+23/12/2025,12,CS Department,Academic,36,0,1,182.4,28.41
+23/12/2025,12,Electrical Department,Academic,33,0,1,196.7,31.14
+23/12/2025,12,Mechanical Department,Academic,39,0,1,187.1,30.43
+23/12/2025,12,AI Center,Academic,24,0,1,177.6,30.81
+23/12/2025,12,Central Library,Academic,45,0,1,201.5,31.62
+23/12/2025,12,Admin Block,Academic,21,0,1,194.9,33.73
+23/12/2025,12,Central Mess,Facility,100,0,0,454,66.99
+23/12/2025,12,Central Labs,Facility,90,0,0,190,21.52
+23/12/2025,12,Street Lighting,Facility,0,0,0,333,57.35
+23/12/2025,12,Sports Complex,Facility,60,0,0,159,16.5
+24/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,203,22.83
+24/12/2025,12,Ravi Girls,Hostel,20,0,0,145,21.27
+24/12/2025,12,Satluj,Hostel,35,1,0,270.5,31.07
+24/12/2025,12,Chenab,Hostel,35,0,0,192.5,21.05
+24/12/2025,12,beas,Hostel,30,0,0,144,22.88
+24/12/2025,12,T6 PhD,Hostel,200,0,0,397,60.44
+24/12/2025,12,Faculty Quarters,Residential,100,0,0,202,28.01
+24/12/2025,12,CS Department,Academic,36,0,1,188.4,35.15
+24/12/2025,12,Electrical Department,Academic,33,0,1,186.7,26.95
+24/12/2025,12,Mechanical Department,Academic,39,0,1,178.1,32.18
+24/12/2025,12,AI Center,Academic,24,0,1,169.6,17.97
+24/12/2025,12,Central Library,Academic,45,0,1,196.5,36.29
+24/12/2025,12,Admin Block,Academic,21,0,1,176.9,23.21
+24/12/2025,12,Central Mess,Facility,100,0,0,518,78.24
+24/12/2025,12,Central Labs,Facility,90,0,0,202,35.03
+24/12/2025,12,Street Lighting,Facility,0,0,0,321,54.18
+24/12/2025,12,Sports Complex,Facility,60,0,0,157,17.81
+25/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,180,32.76
+25/12/2025,12,Ravi Girls,Hostel,20,0,0,160,19.37
+25/12/2025,12,Satluj,Hostel,35,0,0,191.5,38.12
+25/12/2025,12,Chenab,Hostel,35,1,0,290.5,53.12
+25/12/2025,12,beas,Hostel,30,0,0,145,15.14
+25/12/2025,12,T6 PhD,Hostel,200,0,0,396,68.92
+25/12/2025,12,Faculty Quarters,Residential,100,0,0,219,42.42
+25/12/2025,12,CS Department,Academic,36,0,1,180.4,31.86
+25/12/2025,12,Electrical Department,Academic,33,0,1,170.7,18.85
+25/12/2025,12,Mechanical Department,Academic,39,0,1,208.1,22.43
+25/12/2025,12,AI Center,Academic,24,0,1,190.6,19.53
+25/12/2025,12,Central Library,Academic,45,0,1,187.5,20.83
+25/12/2025,12,Admin Block,Academic,21,0,1,189.9,20.36
+25/12/2025,12,Central Mess,Facility,100,0,0,465,78.2
+25/12/2025,12,Central Labs,Facility,90,0,0,205,36.79
+25/12/2025,12,Street Lighting,Facility,0,0,0,301,32.29
+25/12/2025,12,Sports Complex,Facility,60,0,0,178,21.94
+26/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,292,37.74
+26/12/2025,12,Ravi Girls,Hostel,20,1,0,272,27.8
+26/12/2025,12,Satluj,Hostel,35,0,0,183.5,22.5
+26/12/2025,12,Chenab,Hostel,35,0,0,157.5,25.26
+26/12/2025,12,beas,Hostel,30,0,0,163,18.3
+26/12/2025,12,T6 PhD,Hostel,200,0,0,382,71.32
+26/12/2025,12,Faculty Quarters,Residential,100,0,0,215,34.93
+26/12/2025,12,CS Department,Academic,36,0,1,203.4,31.04
+26/12/2025,12,Electrical Department,Academic,33,0,1,192.7,24.86
+26/12/2025,12,Mechanical Department,Academic,39,0,1,178.1,20.35
+26/12/2025,12,AI Center,Academic,24,0,1,178.6,25.03
+26/12/2025,12,Central Library,Academic,45,0,1,213.5,24.21
+26/12/2025,12,Admin Block,Academic,21,0,1,168.9,21.48
+26/12/2025,12,Central Mess,Facility,100,0,0,506,50.61
+26/12/2025,12,Central Labs,Facility,90,0,0,197,33.79
+26/12/2025,12,Street Lighting,Facility,0,0,0,316,33.58
+26/12/2025,12,Sports Complex,Facility,60,0,0,153,19.08
+27/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,193,37.27
+27/12/2025,12,Ravi Girls,Hostel,20,0,0,168,21.34
+27/12/2025,12,Satluj,Hostel,35,0,0,188.5,29.63
+27/12/2025,12,Chenab,Hostel,35,0,0,157.5,22.4
+27/12/2025,12,beas,Hostel,30,0,0,150,25.13
+27/12/2025,12,T6 PhD,Hostel,200,1,0,502,74.99
+27/12/2025,12,Faculty Quarters,Residential,100,0,0,206,37.99
+27/12/2025,12,CS Department,Academic,36,0,1,194.4,24.38
+27/12/2025,12,Electrical Department,Academic,33,0,1,205.7,40.44
+27/12/2025,12,Mechanical Department,Academic,39,0,1,191.1,32.03
+27/12/2025,12,AI Center,Academic,24,0,1,169.6,18.75
+27/12/2025,12,Central Library,Academic,45,0,1,191.5,38.29
+27/12/2025,12,Admin Block,Academic,21,0,1,196.9,29.54
+27/12/2025,12,Central Mess,Facility,100,0,0,496,55.1
+27/12/2025,12,Central Labs,Facility,90,0,0,206,28.22
+27/12/2025,12,Street Lighting,Facility,0,0,0,340,40.32
+27/12/2025,12,Sports Complex,Facility,60,0,0,183,33.86
+28/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,293,54.78
+28/12/2025,12,Ravi Girls,Hostel,20,0,0,147,17.87
+28/12/2025,12,Satluj,Hostel,35,0,0,189.5,19.63
+28/12/2025,12,Chenab,Hostel,35,0,0,152.5,25.19
+28/12/2025,12,beas,Hostel,30,0,0,166,32.78
+28/12/2025,12,T6 PhD,Hostel,200,1,0,507,86.86
+28/12/2025,12,Faculty Quarters,Residential,100,0,0,215,23.33
+28/12/2025,12,CS Department,Academic,36,0,1,184.4,19.51
+28/12/2025,12,Electrical Department,Academic,33,0,1,178.7,27.59
+28/12/2025,12,Mechanical Department,Academic,39,0,1,184.1,18.68
+28/12/2025,12,AI Center,Academic,24,0,1,184.6,33.93
+28/12/2025,12,Central Library,Academic,45,0,1,193.5,27.35
+28/12/2025,12,Admin Block,Academic,21,0,1,195.9,29.99
+28/12/2025,12,Central Mess,Facility,100,0,0,473,81.59
+28/12/2025,12,Central Labs,Facility,90,0,0,197,33.05
+28/12/2025,12,Street Lighting,Facility,0,0,0,327,41.44
+28/12/2025,12,Sports Complex,Facility,60,0,0,175,34.58
+29/12/2025,12,Brahmaputra Girls,Hostel,50,1,0,326,57.71
+29/12/2025,12,Ravi Girls,Hostel,20,0,0,159,18.79
+29/12/2025,12,Satluj,Hostel,35,0,0,176.5,22.83
+29/12/2025,12,Chenab,Hostel,35,0,0,151.5,20.42
+29/12/2025,12,beas,Hostel,30,0,0,154,24.15
+29/12/2025,12,T6 PhD,Hostel,200,0,0,372,73.44
+29/12/2025,12,Faculty Quarters,Residential,100,0,0,188,29.08
+29/12/2025,12,CS Department,Academic,36,0,1,194.4,34.61
+29/12/2025,12,Electrical Department,Academic,33,0,1,190.7,21.97
+29/12/2025,12,Mechanical Department,Academic,39,0,1,203.1,24.95
+29/12/2025,12,AI Center,Academic,24,0,1,188.6,27.79
+29/12/2025,12,Central Library,Academic,45,0,1,205.5,32.51
+29/12/2025,12,Admin Block,Academic,21,0,1,162.9,24.94
+29/12/2025,12,Central Mess,Facility,100,0,0,524,102.85
+29/12/2025,12,Central Labs,Facility,90,0,0,188,23.04
+29/12/2025,12,Street Lighting,Facility,0,0,0,341,64.66
+29/12/2025,12,Sports Complex,Facility,60,0,0,166,19.04
+30/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,204,38.89
+30/12/2025,12,Ravi Girls,Hostel,20,1,0,256,32.25
+30/12/2025,12,Satluj,Hostel,35,0,0,182.5,23.55
+30/12/2025,12,Chenab,Hostel,35,0,0,191.5,20.31
+30/12/2025,12,beas,Hostel,30,0,0,164,18.82
+30/12/2025,12,T6 PhD,Hostel,200,1,0,520,75.28
+30/12/2025,12,Faculty Quarters,Residential,100,0,0,217,33.19
+30/12/2025,12,CS Department,Academic,36,0,1,192.4,37.75
+30/12/2025,12,Electrical Department,Academic,33,0,1,190.7,33.58
+30/12/2025,12,Mechanical Department,Academic,39,0,1,187.1,27.29
+30/12/2025,12,AI Center,Academic,24,0,1,166.6,24.08
+30/12/2025,12,Central Library,Academic,45,0,1,212.5,24.16
+30/12/2025,12,Admin Block,Academic,21,0,1,168.9,23.51
+30/12/2025,12,Central Mess,Facility,100,0,0,490,58.65
+30/12/2025,12,Central Labs,Facility,90,0,0,197,29.99
+30/12/2025,12,Street Lighting,Facility,0,0,0,336,48.28
+30/12/2025,12,Sports Complex,Facility,60,0,0,185,30.01
+31/12/2025,12,Brahmaputra Girls,Hostel,50,0,0,168,30.73
+31/12/2025,12,Ravi Girls,Hostel,20,0,0,159,27
+31/12/2025,12,Satluj,Hostel,35,0,0,160.5,31.74
+31/12/2025,12,Chenab,Hostel,35,0,0,157.5,29.2
+31/12/2025,12,beas,Hostel,30,0,0,174,21.7
+31/12/2025,12,T6 PhD,Hostel,200,0,0,398,70.9
+31/12/2025,12,Faculty Quarters,Residential,100,0,0,201,37.29
+31/12/2025,12,CS Department,Academic,36,0,1,208.4,21.03
+31/12/2025,12,Electrical Department,Academic,33,0,1,196.7,24.17
+31/12/2025,12,Mechanical Department,Academic,39,0,1,198.1,35.82
+31/12/2025,12,AI Center,Academic,24,0,1,168.6,30.49
+31/12/2025,12,Central Library,Academic,45,0,1,206.5,21.25
+31/12/2025,12,Admin Block,Academic,21,0,1,170.9,17.1
+31/12/2025,12,Central Mess,Facility,100,0,0,503,70.31
+31/12/2025,12,Central Labs,Facility,90,0,0,172,17.97
+31/12/2025,12,Street Lighting,Facility,0,0,0,348,56.91
+31/12/2025,12,Sports Complex,Facility,60,0,0,177,33.96
+01/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,776,98.98
+01/01/2026,1,Ravi Girls,Hostel,200,0,0,404,50.54
+01/01/2026,1,Satluj,Hostel,350,0,0,581,82.25
+01/01/2026,1,Chenab,Hostel,350,0,0,555,66.13
+01/01/2026,1,beas,Hostel,300,0,0,512,77.11
+01/01/2026,1,T6 PhD,Hostel,200,1,0,520,63.89
+01/01/2026,1,Faculty Quarters,Residential,100,0,0,201,37.52
+01/01/2026,1,CS Department,Academic,120,0,1,276,39.51
+01/01/2026,1,Electrical Department,Academic,110,0,1,259,39.28
+01/01/2026,1,Mechanical Department,Academic,130,0,1,275,31.45
+01/01/2026,1,AI Center,Academic,80,0,1,218,40.24
+01/01/2026,1,Central Library,Academic,150,0,1,288,51.27
+01/01/2026,1,Admin Block,Academic,70,0,1,217,33.52
+01/01/2026,1,Central Mess,Facility,400,0,0,607,72
+01/01/2026,1,Central Labs,Facility,90,0,0,210,21.69
+01/01/2026,1,Street Lighting,Facility,0,0,0,326,34.85
+01/01/2026,1,Sports Complex,Facility,60,0,0,184,26.86
+02/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,896,164.49
+02/01/2026,1,Ravi Girls,Hostel,200,1,0,513,91
+02/01/2026,1,Satluj,Hostel,350,1,0,678,78.08
+02/01/2026,1,Chenab,Hostel,350,0,0,577,60.32
+02/01/2026,1,beas,Hostel,300,1,0,654,67.86
+02/01/2026,1,T6 PhD,Hostel,200,1,0,520,52
+02/01/2026,1,Faculty Quarters,Residential,100,0,0,185,19.51
+02/01/2026,1,CS Department,Academic,120,0,1,254,30.57
+02/01/2026,1,Electrical Department,Academic,110,0,1,258,31.74
+02/01/2026,1,Mechanical Department,Academic,130,0,1,260,51.14
+02/01/2026,1,AI Center,Academic,80,0,1,247,43.02
+02/01/2026,1,Central Library,Academic,150,0,1,297,47.81
+02/01/2026,1,Admin Block,Academic,70,0,1,239,40.93
+02/01/2026,1,Central Mess,Facility,400,0,0,677,76.19
+02/01/2026,1,Central Labs,Facility,90,0,0,207,41.09
+02/01/2026,1,Street Lighting,Facility,0,0,0,320,49.36
+02/01/2026,1,Sports Complex,Facility,60,0,0,163,17.58
+03/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,759,77.47
+03/01/2026,1,Ravi Girls,Hostel,200,1,0,488,61.92
+03/01/2026,1,Satluj,Hostel,350,0,0,576,72.88
+03/01/2026,1,Chenab,Hostel,350,0,0,601,103.04
+03/01/2026,1,beas,Hostel,300,0,0,527,93.84
+03/01/2026,1,T6 PhD,Hostel,200,0,0,395,77.91
+03/01/2026,1,Faculty Quarters,Residential,100,0,0,181,30.72
+03/01/2026,1,CS Department,Academic,120,0,1,253,48.6
+03/01/2026,1,Electrical Department,Academic,110,0,1,277,51.26
+03/01/2026,1,Mechanical Department,Academic,130,0,1,290,52.41
+03/01/2026,1,AI Center,Academic,80,0,1,224,27.18
+03/01/2026,1,Central Library,Academic,150,0,1,277,30.99
+03/01/2026,1,Admin Block,Academic,70,0,1,203,26.63
+03/01/2026,1,Central Mess,Facility,400,0,0,631,87.53
+03/01/2026,1,Central Labs,Facility,90,0,0,190,33.86
+03/01/2026,1,Street Lighting,Facility,0,0,0,313,53.33
+03/01/2026,1,Sports Complex,Facility,60,0,0,151,23.54
+04/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,755,116.76
+04/01/2026,1,Ravi Girls,Hostel,200,0,0,378,54.04
+04/01/2026,1,Satluj,Hostel,350,1,0,690,128.52
+04/01/2026,1,Chenab,Hostel,350,1,0,709,138.43
+04/01/2026,1,beas,Hostel,300,1,0,652,121.62
+04/01/2026,1,T6 PhD,Hostel,200,1,0,483,78.49
+04/01/2026,1,Faculty Quarters,Residential,100,0,0,201,33.62
+04/01/2026,1,CS Department,Academic,120,0,1,254,33.35
+04/01/2026,1,Electrical Department,Academic,110,0,1,254,50.34
+04/01/2026,1,Mechanical Department,Academic,130,0,1,272,31.63
+04/01/2026,1,AI Center,Academic,80,0,1,223,28.71
+04/01/2026,1,Central Library,Academic,150,0,1,301,42.49
+04/01/2026,1,Admin Block,Academic,70,0,1,207,35.87
+04/01/2026,1,Central Mess,Facility,400,0,0,658,89.22
+04/01/2026,1,Central Labs,Facility,90,0,0,190,31.87
+04/01/2026,1,Street Lighting,Facility,0,0,0,329,45.2
+04/01/2026,1,Sports Complex,Facility,60,0,0,160,28.56
+05/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,772,92.56
+05/01/2026,1,Ravi Girls,Hostel,200,1,0,508,55.95
+05/01/2026,1,Satluj,Hostel,350,1,0,692,134.34
+05/01/2026,1,Chenab,Hostel,350,0,0,562,59.99
+05/01/2026,1,beas,Hostel,300,0,0,506,55.82
+05/01/2026,1,T6 PhD,Hostel,200,0,0,387,54.32
+05/01/2026,1,Faculty Quarters,Residential,100,0,0,205,32.43
+05/01/2026,1,CS Department,Academic,120,0,1,259,27.82
+05/01/2026,1,Electrical Department,Academic,110,0,1,272,40.34
+05/01/2026,1,Mechanical Department,Academic,130,0,1,280,46.39
+05/01/2026,1,AI Center,Academic,80,0,1,250,29.3
+05/01/2026,1,Central Library,Academic,150,0,1,294,38.14
+05/01/2026,1,Admin Block,Academic,70,0,1,221,35.88
+05/01/2026,1,Central Mess,Facility,400,0,0,629,103.26
+05/01/2026,1,Central Labs,Facility,90,0,0,177,22.14
+05/01/2026,1,Street Lighting,Facility,0,0,0,332,55.51
+05/01/2026,1,Sports Complex,Facility,60,0,0,183,22.87
+06/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,873,169.95
+06/01/2026,1,Ravi Girls,Hostel,200,1,0,489,78.84
+06/01/2026,1,Satluj,Hostel,350,1,0,722,72.68
+06/01/2026,1,Chenab,Hostel,350,0,0,590,100.37
+06/01/2026,1,beas,Hostel,300,0,0,517,84.14
+06/01/2026,1,T6 PhD,Hostel,200,1,0,486,60.9
+06/01/2026,1,Faculty Quarters,Residential,100,0,0,180,21.97
+06/01/2026,1,CS Department,Academic,120,0,1,279,46.66
+06/01/2026,1,Electrical Department,Academic,110,0,1,255,38.2
+06/01/2026,1,Mechanical Department,Academic,130,0,1,291,55
+06/01/2026,1,AI Center,Academic,80,0,1,236,33.84
+06/01/2026,1,Central Library,Academic,150,0,1,303,45.84
+06/01/2026,1,Admin Block,Academic,70,0,1,221,35.13
+06/01/2026,1,Central Mess,Facility,400,0,0,640,79.49
+06/01/2026,1,Central Labs,Facility,90,0,0,211,34.9
+06/01/2026,1,Street Lighting,Facility,0,0,0,346,60.16
+06/01/2026,1,Sports Complex,Facility,60,0,0,180,21.86
+07/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,917,175.25
+07/01/2026,1,Ravi Girls,Hostel,200,1,0,529,91.66
+07/01/2026,1,Satluj,Hostel,350,0,0,565,90.11
+07/01/2026,1,Chenab,Hostel,350,1,0,684,128.93
+07/01/2026,1,beas,Hostel,300,1,0,645,124.66
+07/01/2026,1,T6 PhD,Hostel,200,0,0,405,56.6
+07/01/2026,1,Faculty Quarters,Residential,100,0,0,206,31.34
+07/01/2026,1,CS Department,Academic,120,0,1,264,50.71
+07/01/2026,1,Electrical Department,Academic,110,0,1,263,35.07
+07/01/2026,1,Mechanical Department,Academic,130,0,1,289,54.78
+07/01/2026,1,AI Center,Academic,80,0,1,232,32.74
+07/01/2026,1,Central Library,Academic,150,0,1,312,44.54
+07/01/2026,1,Admin Block,Academic,70,0,1,239,42.64
+07/01/2026,1,Central Mess,Facility,400,0,0,662,85.56
+07/01/2026,1,Central Labs,Facility,90,0,0,184,23.94
+07/01/2026,1,Street Lighting,Facility,0,0,0,342,51
+07/01/2026,1,Sports Complex,Facility,60,0,0,162,20.75
+08/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,787,130.26
+08/01/2026,1,Ravi Girls,Hostel,200,1,0,517,57.48
+08/01/2026,1,Satluj,Hostel,350,0,0,603,71.49
+08/01/2026,1,Chenab,Hostel,350,0,0,561,96.52
+08/01/2026,1,beas,Hostel,300,0,0,508,56.41
+08/01/2026,1,T6 PhD,Hostel,200,1,0,483,92.96
+08/01/2026,1,Faculty Quarters,Residential,100,0,0,202,25.35
+08/01/2026,1,CS Department,Academic,120,0,1,271,48.49
+08/01/2026,1,Electrical Department,Academic,110,0,1,270,48.85
+08/01/2026,1,Mechanical Department,Academic,130,0,1,295,36.34
+08/01/2026,1,AI Center,Academic,80,0,1,220,23.71
+08/01/2026,1,Central Library,Academic,150,0,1,313,37.37
+08/01/2026,1,Admin Block,Academic,70,0,1,225,41.35
+08/01/2026,1,Central Mess,Facility,400,0,0,666,94.21
+08/01/2026,1,Central Labs,Facility,90,0,0,180,20.89
+08/01/2026,1,Street Lighting,Facility,0,0,0,312,53.72
+08/01/2026,1,Sports Complex,Facility,60,0,0,170,24.3
+09/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,770,132.34
+09/01/2026,1,Ravi Girls,Hostel,200,0,0,377,48.89
+09/01/2026,1,Satluj,Hostel,350,0,0,584,59.52
+09/01/2026,1,Chenab,Hostel,350,1,0,716,134.73
+09/01/2026,1,beas,Hostel,300,1,0,656,72.51
+09/01/2026,1,T6 PhD,Hostel,200,1,0,488,59.14
+09/01/2026,1,Faculty Quarters,Residential,100,0,0,218,23.06
+09/01/2026,1,CS Department,Academic,120,0,1,266,35.53
+09/01/2026,1,Electrical Department,Academic,110,0,1,262,42.35
+09/01/2026,1,Mechanical Department,Academic,130,0,1,289,41.3
+09/01/2026,1,AI Center,Academic,80,0,1,221,31.2
+09/01/2026,1,Central Library,Academic,150,0,1,303,45.45
+09/01/2026,1,Admin Block,Academic,70,0,1,203,33.12
+09/01/2026,1,Central Mess,Facility,400,0,0,676,114.69
+09/01/2026,1,Central Labs,Facility,90,0,0,200,28.78
+09/01/2026,1,Street Lighting,Facility,0,0,0,316,38.12
+09/01/2026,1,Sports Complex,Facility,60,0,0,150,18.06
+10/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,750,76.36
+10/01/2026,1,Ravi Girls,Hostel,200,0,0,384,64.25
+10/01/2026,1,Satluj,Hostel,350,1,0,703,114.48
+10/01/2026,1,Chenab,Hostel,350,0,0,570,57.57
+10/01/2026,1,beas,Hostel,300,0,0,490,71.79
+10/01/2026,1,T6 PhD,Hostel,200,0,0,400,59.4
+10/01/2026,1,Faculty Quarters,Residential,100,0,0,186,26.99
+10/01/2026,1,CS Department,Academic,120,0,1,249,34.97
+10/01/2026,1,Electrical Department,Academic,110,0,1,249,26.78
+10/01/2026,1,Mechanical Department,Academic,130,0,1,296,30.06
+10/01/2026,1,AI Center,Academic,80,0,1,213,22.73
+10/01/2026,1,Central Library,Academic,150,0,1,286,33.8
+10/01/2026,1,Admin Block,Academic,70,0,1,217,23.14
+10/01/2026,1,Central Mess,Facility,400,0,0,644,93.41
+10/01/2026,1,Central Labs,Facility,90,0,0,186,22.91
+10/01/2026,1,Street Lighting,Facility,0,0,0,341,45.05
+10/01/2026,1,Sports Complex,Facility,60,0,0,161,22.1
+11/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,873,127.83
+11/01/2026,1,Ravi Girls,Hostel,200,0,0,390,66.64
+11/01/2026,1,Satluj,Hostel,350,1,0,717,131.31
+11/01/2026,1,Chenab,Hostel,350,0,0,563,56.6
+11/01/2026,1,beas,Hostel,300,0,0,504,52.85
+11/01/2026,1,T6 PhD,Hostel,200,0,0,368,58.28
+11/01/2026,1,Faculty Quarters,Residential,100,0,0,218,36.57
+11/01/2026,1,CS Department,Academic,120,0,1,282,47.13
+11/01/2026,1,Electrical Department,Academic,110,0,1,267,37.02
+11/01/2026,1,Mechanical Department,Academic,130,0,1,284,39.5
+11/01/2026,1,AI Center,Academic,80,0,1,227,39.92
+11/01/2026,1,Central Library,Academic,150,0,1,300,56.67
+11/01/2026,1,Admin Block,Academic,70,0,1,224,39.39
+11/01/2026,1,Central Mess,Facility,400,0,0,660,113.28
+11/01/2026,1,Central Labs,Facility,90,0,0,179,28.43
+11/01/2026,1,Street Lighting,Facility,0,0,0,344,41.79
+11/01/2026,1,Sports Complex,Facility,60,0,0,159,27.42
+12/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,765,82.39
+12/01/2026,1,Ravi Girls,Hostel,200,0,0,371,53.57
+12/01/2026,1,Satluj,Hostel,350,0,0,586,83.86
+12/01/2026,1,Chenab,Hostel,350,0,0,601,98.37
+12/01/2026,1,beas,Hostel,300,0,0,490,74.91
+12/01/2026,1,T6 PhD,Hostel,200,0,0,380,64.4
+12/01/2026,1,Faculty Quarters,Residential,100,0,0,215,39.21
+12/01/2026,1,CS Department,Academic,120,0,1,262,47.73
+12/01/2026,1,Electrical Department,Academic,110,0,1,244,43.6
+12/01/2026,1,Mechanical Department,Academic,130,0,1,276,37.77
+12/01/2026,1,AI Center,Academic,80,0,1,212,31.04
+12/01/2026,1,Central Library,Academic,150,0,1,295,55.71
+12/01/2026,1,Admin Block,Academic,70,0,1,208,29.72
+12/01/2026,1,Central Mess,Facility,400,0,0,628,90.21
+12/01/2026,1,Central Labs,Facility,90,0,0,189,34.87
+12/01/2026,1,Street Lighting,Facility,0,0,0,337,36.9
+12/01/2026,1,Sports Complex,Facility,60,0,0,178,32.06
+13/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,752,150.22
+13/01/2026,1,Ravi Girls,Hostel,200,1,0,494,64.42
+13/01/2026,1,Satluj,Hostel,350,1,0,709,72.49
+13/01/2026,1,Chenab,Hostel,350,1,0,685,69.44
+13/01/2026,1,beas,Hostel,300,1,0,644,65.41
+13/01/2026,1,T6 PhD,Hostel,200,1,0,503,81.67
+13/01/2026,1,Faculty Quarters,Residential,100,0,0,211,23.9
+13/01/2026,1,CS Department,Academic,120,0,1,282,54.66
+13/01/2026,1,Electrical Department,Academic,110,0,1,248,34.49
+13/01/2026,1,Mechanical Department,Academic,130,0,1,285,50.07
+13/01/2026,1,AI Center,Academic,80,0,1,221,25.16
+13/01/2026,1,Central Library,Academic,150,0,1,293,54.74
+13/01/2026,1,Admin Block,Academic,70,0,1,236,31.67
+13/01/2026,1,Central Mess,Facility,400,0,0,658,96.68
+13/01/2026,1,Central Labs,Facility,90,0,0,175,32.57
+13/01/2026,1,Street Lighting,Facility,0,0,0,337,53.69
+13/01/2026,1,Sports Complex,Facility,60,0,0,158,28.96
+14/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,887,98.46
+14/01/2026,1,Ravi Girls,Hostel,200,0,0,403,60.46
+14/01/2026,1,Satluj,Hostel,350,0,0,579,95.46
+14/01/2026,1,Chenab,Hostel,350,1,0,693,121.12
+14/01/2026,1,beas,Hostel,300,0,0,490,57.79
+14/01/2026,1,T6 PhD,Hostel,200,0,0,381,60.19
+14/01/2026,1,Faculty Quarters,Residential,100,0,0,193,20.47
+14/01/2026,1,CS Department,Academic,120,0,1,280,45.07
+14/01/2026,1,Electrical Department,Academic,110,0,1,250,36.37
+14/01/2026,1,Mechanical Department,Academic,130,0,1,294,45.16
+14/01/2026,1,AI Center,Academic,80,0,1,241,45.35
+14/01/2026,1,Central Library,Academic,150,0,1,312,51.25
+14/01/2026,1,Admin Block,Academic,70,0,1,213,33.93
+14/01/2026,1,Central Mess,Facility,400,0,0,621,105.73
+14/01/2026,1,Central Labs,Facility,90,0,0,197,21.37
+14/01/2026,1,Street Lighting,Facility,0,0,0,315,53.26
+14/01/2026,1,Sports Complex,Facility,60,0,0,163,30.37
+15/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,797,109.62
+15/01/2026,1,Ravi Girls,Hostel,200,0,0,368,73.5
+15/01/2026,1,Satluj,Hostel,350,1,0,716,121.09
+15/01/2026,1,Chenab,Hostel,350,0,0,562,109.07
+15/01/2026,1,beas,Hostel,300,0,0,535,71.44
+15/01/2026,1,T6 PhD,Hostel,200,1,0,491,89.21
+15/01/2026,1,Faculty Quarters,Residential,100,0,0,209,27.3
+15/01/2026,1,CS Department,Academic,120,0,1,281,30.1
+15/01/2026,1,Electrical Department,Academic,110,0,1,272,40.12
+15/01/2026,1,Mechanical Department,Academic,130,0,1,280,30.83
+15/01/2026,1,AI Center,Academic,80,0,1,248,37.94
+15/01/2026,1,Central Library,Academic,150,0,1,314,34.99
+15/01/2026,1,Admin Block,Academic,70,0,1,225,40.46
+15/01/2026,1,Central Mess,Facility,400,0,0,607,74.04
+15/01/2026,1,Central Labs,Facility,90,0,0,181,22.74
+15/01/2026,1,Street Lighting,Facility,0,0,0,312,33.15
+15/01/2026,1,Sports Complex,Facility,60,0,0,169,32.08
+16/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,787,146.75
+16/01/2026,1,Ravi Girls,Hostel,200,1,0,502,55.15
+16/01/2026,1,Satluj,Hostel,350,0,0,565,88.33
+16/01/2026,1,Chenab,Hostel,350,0,0,559,82.65
+16/01/2026,1,beas,Hostel,300,0,0,535,70.18
+16/01/2026,1,T6 PhD,Hostel,200,1,0,502,54.33
+16/01/2026,1,Faculty Quarters,Residential,100,0,0,210,29.31
+16/01/2026,1,CS Department,Academic,120,0,1,281,40.98
+16/01/2026,1,Electrical Department,Academic,110,0,1,256,42.68
+16/01/2026,1,Mechanical Department,Academic,130,0,1,271,32.5
+16/01/2026,1,AI Center,Academic,80,0,1,250,39.06
+16/01/2026,1,Central Library,Academic,150,0,1,314,43.06
+16/01/2026,1,Admin Block,Academic,70,0,1,220,32.36
+16/01/2026,1,Central Mess,Facility,400,0,0,675,100.11
+16/01/2026,1,Central Labs,Facility,90,0,0,178,19.88
+16/01/2026,1,Street Lighting,Facility,0,0,0,315,41.84
+16/01/2026,1,Sports Complex,Facility,60,0,0,172,26.04
+17/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,794,154.94
+17/01/2026,1,Ravi Girls,Hostel,200,1,0,498,86.46
+17/01/2026,1,Satluj,Hostel,350,0,0,568,93.42
+17/01/2026,1,Chenab,Hostel,350,1,0,713,137.77
+17/01/2026,1,beas,Hostel,300,0,0,527,59.64
+17/01/2026,1,T6 PhD,Hostel,200,0,0,389,72.13
+17/01/2026,1,Faculty Quarters,Residential,100,0,0,213,40.54
+17/01/2026,1,CS Department,Academic,120,0,1,285,56.14
+17/01/2026,1,Electrical Department,Academic,110,0,1,244,33.54
+17/01/2026,1,Mechanical Department,Academic,130,0,1,259,49.05
+17/01/2026,1,AI Center,Academic,80,0,1,242,38.07
+17/01/2026,1,Central Library,Academic,150,0,1,299,30.65
+17/01/2026,1,Admin Block,Academic,70,0,1,223,41.79
+17/01/2026,1,Central Mess,Facility,400,0,0,621,108.78
+17/01/2026,1,Central Labs,Facility,90,0,0,191,26.29
+17/01/2026,1,Street Lighting,Facility,0,0,0,335,48.85
+17/01/2026,1,Sports Complex,Facility,60,0,0,164,21.22
+18/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,896,93.19
+18/01/2026,1,Ravi Girls,Hostel,200,1,0,487,93.72
+18/01/2026,1,Satluj,Hostel,350,0,0,567,83.24
+18/01/2026,1,Chenab,Hostel,350,0,0,579,98.57
+18/01/2026,1,beas,Hostel,300,0,0,507,76.71
+18/01/2026,1,T6 PhD,Hostel,200,0,0,372,65.82
+18/01/2026,1,Faculty Quarters,Residential,100,0,0,209,30.84
+18/01/2026,1,CS Department,Academic,120,0,1,277,33.36
+18/01/2026,1,Electrical Department,Academic,110,0,1,278,34.1
+18/01/2026,1,Mechanical Department,Academic,130,0,1,266,47.18
+18/01/2026,1,AI Center,Academic,80,0,1,241,37.38
+18/01/2026,1,Central Library,Academic,150,0,1,275,49.39
+18/01/2026,1,Admin Block,Academic,70,0,1,218,26.98
+18/01/2026,1,Central Mess,Facility,400,0,0,677,129.64
+18/01/2026,1,Central Labs,Facility,90,0,0,198,23.24
+18/01/2026,1,Street Lighting,Facility,0,0,0,339,40.67
+18/01/2026,1,Sports Complex,Facility,60,0,0,186,20.93
+19/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,781,121.56
+19/01/2026,1,Ravi Girls,Hostel,200,0,0,399,76.97
+19/01/2026,1,Satluj,Hostel,350,1,0,724,95.43
+19/01/2026,1,Chenab,Hostel,350,0,0,562,99.77
+19/01/2026,1,beas,Hostel,300,1,0,620,80.14
+19/01/2026,1,T6 PhD,Hostel,200,1,0,481,80.22
+19/01/2026,1,Faculty Quarters,Residential,100,0,0,207,33.06
+19/01/2026,1,CS Department,Academic,120,0,1,285,36.93
+19/01/2026,1,Electrical Department,Academic,110,0,1,275,51.83
+19/01/2026,1,Mechanical Department,Academic,130,0,1,282,53.94
+19/01/2026,1,AI Center,Academic,80,0,1,224,22.63
+19/01/2026,1,Central Library,Academic,150,0,1,310,50.3
+19/01/2026,1,Admin Block,Academic,70,0,1,237,27.07
+19/01/2026,1,Central Mess,Facility,400,0,0,627,79.07
+19/01/2026,1,Central Labs,Facility,90,0,0,211,32.52
+19/01/2026,1,Street Lighting,Facility,0,0,0,323,44.33
+19/01/2026,1,Sports Complex,Facility,60,0,0,174,19.01
+20/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,881,112.15
+20/01/2026,1,Ravi Girls,Hostel,200,1,0,524,75.81
+20/01/2026,1,Satluj,Hostel,350,0,0,578,85.02
+20/01/2026,1,Chenab,Hostel,350,0,0,580,95.56
+20/01/2026,1,beas,Hostel,300,1,0,628,119.59
+20/01/2026,1,T6 PhD,Hostel,200,0,0,386,40.75
+20/01/2026,1,Faculty Quarters,Residential,100,0,0,191,35.62
+20/01/2026,1,CS Department,Academic,120,0,1,281,52.16
+20/01/2026,1,Electrical Department,Academic,110,0,1,250,47.73
+20/01/2026,1,Mechanical Department,Academic,130,0,1,257,37.01
+20/01/2026,1,AI Center,Academic,80,0,1,214,28.72
+20/01/2026,1,Central Library,Academic,150,0,1,296,34.73
+20/01/2026,1,Admin Block,Academic,70,0,1,240,40.37
+20/01/2026,1,Central Mess,Facility,400,0,0,651,112.88
+20/01/2026,1,Central Labs,Facility,90,0,0,195,21.77
+20/01/2026,1,Street Lighting,Facility,0,0,0,348,36.37
+20/01/2026,1,Sports Complex,Facility,60,0,0,170,28.2
+21/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,777,145.53
+21/01/2026,1,Ravi Girls,Hostel,200,0,0,362,51.07
+21/01/2026,1,Satluj,Hostel,350,0,0,603,65.29
+21/01/2026,1,Chenab,Hostel,350,1,0,679,74.6
+21/01/2026,1,beas,Hostel,300,1,0,646,72.27
+21/01/2026,1,T6 PhD,Hostel,200,0,0,388,47.58
+21/01/2026,1,Faculty Quarters,Residential,100,0,0,181,31.47
+21/01/2026,1,CS Department,Academic,120,0,1,277,51.62
+21/01/2026,1,Electrical Department,Academic,110,0,1,277,32.48
+21/01/2026,1,Mechanical Department,Academic,130,0,1,284,56.33
+21/01/2026,1,AI Center,Academic,80,0,1,242,43.13
+21/01/2026,1,Central Library,Academic,150,0,1,308,32.35
+21/01/2026,1,Admin Block,Academic,70,0,1,214,32.6
+21/01/2026,1,Central Mess,Facility,400,0,0,600,75.17
+21/01/2026,1,Central Labs,Facility,90,0,0,192,33.51
+21/01/2026,1,Street Lighting,Facility,0,0,0,334,45.12
+21/01/2026,1,Sports Complex,Facility,60,0,0,164,21.78
+22/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,886,162.54
+22/01/2026,1,Ravi Girls,Hostel,200,1,0,524,96.46
+22/01/2026,1,Satluj,Hostel,350,1,0,721,82.17
+22/01/2026,1,Chenab,Hostel,350,0,0,581,103.51
+22/01/2026,1,beas,Hostel,300,1,0,644,65.48
+22/01/2026,1,T6 PhD,Hostel,200,0,0,408,57.97
+22/01/2026,1,Faculty Quarters,Residential,100,0,0,184,24.14
+22/01/2026,1,CS Department,Academic,120,0,1,265,35.3
+22/01/2026,1,Electrical Department,Academic,110,0,1,252,26.92
+22/01/2026,1,Mechanical Department,Academic,130,0,1,271,43.71
+22/01/2026,1,AI Center,Academic,80,0,1,246,26.49
+22/01/2026,1,Central Library,Academic,150,0,1,310,52.12
+22/01/2026,1,Admin Block,Academic,70,0,1,242,31.94
+22/01/2026,1,Central Mess,Facility,400,0,0,670,84.11
+22/01/2026,1,Central Labs,Facility,90,0,0,203,35.53
+22/01/2026,1,Street Lighting,Facility,0,0,0,313,40
+22/01/2026,1,Sports Complex,Facility,60,0,0,151,23.5
+23/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,885,92.21
+23/01/2026,1,Ravi Girls,Hostel,200,1,0,507,76.98
+23/01/2026,1,Satluj,Hostel,350,0,0,557,68.59
+23/01/2026,1,Chenab,Hostel,350,0,0,597,75.36
+23/01/2026,1,beas,Hostel,300,1,0,611,115.25
+23/01/2026,1,T6 PhD,Hostel,200,0,0,398,65.09
+23/01/2026,1,Faculty Quarters,Residential,100,0,0,214,23.36
+23/01/2026,1,CS Department,Academic,120,0,1,252,44.88
+23/01/2026,1,Electrical Department,Academic,110,0,1,272,49.63
+23/01/2026,1,Mechanical Department,Academic,130,0,1,261,26.31
+23/01/2026,1,AI Center,Academic,80,0,1,215,38.01
+23/01/2026,1,Central Library,Academic,150,0,1,292,36.49
+23/01/2026,1,Admin Block,Academic,70,0,1,211,27.61
+23/01/2026,1,Central Mess,Facility,400,0,0,662,84.21
+23/01/2026,1,Central Labs,Facility,90,0,0,188,31.9
+23/01/2026,1,Street Lighting,Facility,0,0,0,316,54.62
+23/01/2026,1,Sports Complex,Facility,60,0,0,169,30.77
+24/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,750,105.02
+24/01/2026,1,Ravi Girls,Hostel,200,0,0,370,53.81
+24/01/2026,1,Satluj,Hostel,350,0,0,563,90.28
+24/01/2026,1,Chenab,Hostel,350,0,0,587,84
+24/01/2026,1,beas,Hostel,300,1,0,618,73
+24/01/2026,1,T6 PhD,Hostel,200,0,0,406,57.65
+24/01/2026,1,Faculty Quarters,Residential,100,0,0,202,28.63
+24/01/2026,1,CS Department,Academic,120,0,1,272,48.88
+24/01/2026,1,Electrical Department,Academic,110,0,1,268,29.49
+24/01/2026,1,Mechanical Department,Academic,130,0,1,270,31.31
+24/01/2026,1,AI Center,Academic,80,0,1,221,27.27
+24/01/2026,1,Central Library,Academic,150,0,1,295,57.47
+24/01/2026,1,Admin Block,Academic,70,0,1,219,26.97
+24/01/2026,1,Central Mess,Facility,400,0,0,675,69.93
+24/01/2026,1,Central Labs,Facility,90,0,0,182,25.84
+24/01/2026,1,Street Lighting,Facility,0,0,0,334,34.36
+24/01/2026,1,Sports Complex,Facility,60,0,0,153,27.26
+25/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,916,95.29
+25/01/2026,1,Ravi Girls,Hostel,200,0,0,372,58.26
+25/01/2026,1,Satluj,Hostel,350,1,0,700,89.27
+25/01/2026,1,Chenab,Hostel,350,0,0,562,107.02
+25/01/2026,1,beas,Hostel,300,1,0,655,78.24
+25/01/2026,1,T6 PhD,Hostel,200,1,0,492,90.15
+25/01/2026,1,Faculty Quarters,Residential,100,0,0,196,24.03
+25/01/2026,1,CS Department,Academic,120,0,1,252,27.47
+25/01/2026,1,Electrical Department,Academic,110,0,1,267,43.43
+25/01/2026,1,Mechanical Department,Academic,130,0,1,279,33.79
+25/01/2026,1,AI Center,Academic,80,0,1,248,42.84
+25/01/2026,1,Central Library,Academic,150,0,1,293,35.64
+25/01/2026,1,Admin Block,Academic,70,0,1,239,42.07
+25/01/2026,1,Central Mess,Facility,400,0,0,619,107.33
+25/01/2026,1,Central Labs,Facility,90,0,0,173,24.37
+25/01/2026,1,Street Lighting,Facility,0,0,0,304,55.55
+25/01/2026,1,Sports Complex,Facility,60,0,0,166,28.17
+26/01/2026,1,Brahmaputra Girls,Hostel,500,1,0,898,120.76
+26/01/2026,1,Ravi Girls,Hostel,200,1,0,526,68.24
+26/01/2026,1,Satluj,Hostel,350,1,0,693,114.21
+26/01/2026,1,Chenab,Hostel,350,0,0,569,103.9
+26/01/2026,1,beas,Hostel,300,0,0,493,54.51
+26/01/2026,1,T6 PhD,Hostel,200,1,0,502,87.25
+26/01/2026,1,Faculty Quarters,Residential,100,0,0,183,23.25
+26/01/2026,1,CS Department,Academic,120,0,1,256,29.6
+26/01/2026,1,Electrical Department,Academic,110,0,1,257,30.04
+26/01/2026,1,Mechanical Department,Academic,130,0,1,291,45.91
+26/01/2026,1,AI Center,Academic,80,0,1,230,45.66
+26/01/2026,1,Central Library,Academic,150,0,1,284,40.54
+26/01/2026,1,Admin Block,Academic,70,0,1,219,32.87
+26/01/2026,1,Central Mess,Facility,400,0,0,638,123.42
+26/01/2026,1,Central Labs,Facility,90,0,0,172,19.42
+26/01/2026,1,Street Lighting,Facility,0,0,0,306,31.1
+26/01/2026,1,Sports Complex,Facility,60,0,0,178,26.18
+27/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,781,101.07
+27/01/2026,1,Ravi Girls,Hostel,200,1,0,521,93.34
+27/01/2026,1,Satluj,Hostel,350,0,0,558,61.54
+27/01/2026,1,Chenab,Hostel,350,1,0,714,78.06
+27/01/2026,1,beas,Hostel,300,0,0,492,65.16
+27/01/2026,1,T6 PhD,Hostel,200,0,0,408,79.31
+27/01/2026,1,Faculty Quarters,Residential,100,0,0,181,28.51
+27/01/2026,1,CS Department,Academic,120,0,1,285,32.59
+27/01/2026,1,Electrical Department,Academic,110,0,1,248,41.97
+27/01/2026,1,Mechanical Department,Academic,130,0,1,269,44.68
+27/01/2026,1,AI Center,Academic,80,0,1,248,40.93
+27/01/2026,1,Central Library,Academic,150,0,1,294,50.02
+27/01/2026,1,Admin Block,Academic,70,0,1,218,29.24
+27/01/2026,1,Central Mess,Facility,400,0,0,665,93.86
+27/01/2026,1,Central Labs,Facility,90,0,0,197,19.97
+27/01/2026,1,Street Lighting,Facility,0,0,0,333,61.34
+27/01/2026,1,Sports Complex,Facility,60,0,0,149,21.25
+28/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,773,115.38
+28/01/2026,1,Ravi Girls,Hostel,200,0,0,373,52.14
+28/01/2026,1,Satluj,Hostel,350,0,0,591,93.19
+28/01/2026,1,Chenab,Hostel,350,0,0,578,78.77
+28/01/2026,1,beas,Hostel,300,0,0,526,84.21
+28/01/2026,1,T6 PhD,Hostel,200,1,0,491,56.5
+28/01/2026,1,Faculty Quarters,Residential,100,0,0,215,37.13
+28/01/2026,1,CS Department,Academic,120,0,1,283,45.44
+28/01/2026,1,Electrical Department,Academic,110,0,1,274,44.24
+28/01/2026,1,Mechanical Department,Academic,130,0,1,279,27.93
+28/01/2026,1,AI Center,Academic,80,0,1,216,35.9
+28/01/2026,1,Central Library,Academic,150,0,1,288,41.54
+28/01/2026,1,Admin Block,Academic,70,0,1,214,28.32
+28/01/2026,1,Central Mess,Facility,400,0,0,613,69.11
+28/01/2026,1,Central Labs,Facility,90,0,0,186,20.36
+28/01/2026,1,Street Lighting,Facility,0,0,0,346,51.86
+28/01/2026,1,Sports Complex,Facility,60,0,0,174,24.4
+29/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,763,85.32
+29/01/2026,1,Ravi Girls,Hostel,200,1,0,510,67.46
+29/01/2026,1,Satluj,Hostel,350,0,0,600,60.77
+29/01/2026,1,Chenab,Hostel,350,0,0,594,112.53
+29/01/2026,1,beas,Hostel,300,0,0,494,74.81
+29/01/2026,1,T6 PhD,Hostel,200,1,0,504,69.76
+29/01/2026,1,Faculty Quarters,Residential,100,0,0,184,25.55
+29/01/2026,1,CS Department,Academic,120,0,1,248,32.61
+29/01/2026,1,Electrical Department,Academic,110,0,1,249,45.56
+29/01/2026,1,Mechanical Department,Academic,130,0,1,267,40.9
+29/01/2026,1,AI Center,Academic,80,0,1,246,46.53
+29/01/2026,1,Central Library,Academic,150,0,1,275,38.57
+29/01/2026,1,Admin Block,Academic,70,0,1,208,33.12
+29/01/2026,1,Central Mess,Facility,400,0,0,632,103.17
+29/01/2026,1,Central Labs,Facility,90,0,0,198,22.17
+29/01/2026,1,Street Lighting,Facility,0,0,0,319,55.94
+29/01/2026,1,Sports Complex,Facility,60,0,0,166,28.72
+30/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,762,127.54
+30/01/2026,1,Ravi Girls,Hostel,200,0,0,387,55.85
+30/01/2026,1,Satluj,Hostel,350,0,0,576,70.99
+30/01/2026,1,Chenab,Hostel,350,1,0,682,133.91
+30/01/2026,1,beas,Hostel,300,1,0,635,82.43
+30/01/2026,1,T6 PhD,Hostel,200,1,0,488,53
+30/01/2026,1,Faculty Quarters,Residential,100,0,0,218,43.07
+30/01/2026,1,CS Department,Academic,120,0,1,261,27.36
+30/01/2026,1,Electrical Department,Academic,110,0,1,249,25.94
+30/01/2026,1,Mechanical Department,Academic,130,0,1,262,32.81
+30/01/2026,1,AI Center,Academic,80,0,1,239,45.36
+30/01/2026,1,Central Library,Academic,150,0,1,281,46.11
+30/01/2026,1,Admin Block,Academic,70,0,1,227,38.6
+30/01/2026,1,Central Mess,Facility,400,0,0,611,83.01
+30/01/2026,1,Central Labs,Facility,90,0,0,195,37.52
+30/01/2026,1,Street Lighting,Facility,0,0,0,303,42.3
+30/01/2026,1,Sports Complex,Facility,60,0,0,158,21.65
+31/01/2026,1,Brahmaputra Girls,Hostel,500,0,0,794,88.96
+31/01/2026,1,Ravi Girls,Hostel,200,0,0,406,54.63
+31/01/2026,1,Satluj,Hostel,350,0,0,583,78.08
+31/01/2026,1,Chenab,Hostel,350,0,0,568,60.27
+31/01/2026,1,beas,Hostel,300,0,0,492,71.43
+31/01/2026,1,T6 PhD,Hostel,200,1,0,508,95.13
+31/01/2026,1,Faculty Quarters,Residential,100,0,0,204,28.86
+31/01/2026,1,CS Department,Academic,120,0,1,285,41.48
+31/01/2026,1,Electrical Department,Academic,110,0,1,245,40.39
+31/01/2026,1,Mechanical Department,Academic,130,0,1,266,39.3
+31/01/2026,1,AI Center,Academic,80,0,1,249,46.52
+31/01/2026,1,Central Library,Academic,150,0,1,308,31.97
+31/01/2026,1,Admin Block,Academic,70,0,1,228,27.7
+31/01/2026,1,Central Mess,Facility,400,0,0,649,121.49
+31/01/2026,1,Central Labs,Facility,90,0,0,195,35.16
+31/01/2026,1,Street Lighting,Facility,0,0,0,342,53.55
+31/01/2026,1,Sports Complex,Facility,60,0,0,165,19.34
+01/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,784,90.27
+01/02/2026,2,Ravi Girls,Hostel,200,0,0,363,58.6
+01/02/2026,2,Satluj,Hostel,350,0,0,600,105.31
+01/02/2026,2,Chenab,Hostel,350,0,0,558,67
+01/02/2026,2,beas,Hostel,300,0,0,491,80.04
+01/02/2026,2,T6 PhD,Hostel,200,0,0,377,49.27
+01/02/2026,2,Faculty Quarters,Residential,100,0,0,180,23.82
+01/02/2026,2,CS Department,Academic,120,0,1,273,32.14
+01/02/2026,2,Electrical Department,Academic,110,0,1,246,44.32
+01/02/2026,2,Mechanical Department,Academic,130,0,1,274,43.31
+01/02/2026,2,AI Center,Academic,80,0,1,244,28.04
+01/02/2026,2,Central Library,Academic,150,0,1,304,31.07
+01/02/2026,2,Admin Block,Academic,70,0,1,223,22.59
+01/02/2026,2,Central Mess,Facility,400,0,0,661,89.34
+01/02/2026,2,Central Labs,Facility,90,0,0,210,29
+01/02/2026,2,Street Lighting,Facility,0,0,0,302,35.92
+01/02/2026,2,Sports Complex,Facility,60,0,0,185,22.5
+02/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,780,142
+02/02/2026,2,Ravi Girls,Hostel,200,0,0,377,47.67
+02/02/2026,2,Satluj,Hostel,350,0,0,578,89.86
+02/02/2026,2,Chenab,Hostel,350,0,0,560,82.1
+02/02/2026,2,beas,Hostel,300,0,0,510,72.12
+02/02/2026,2,T6 PhD,Hostel,200,0,0,373,43.44
+02/02/2026,2,Faculty Quarters,Residential,100,0,0,188,19.2
+02/02/2026,2,CS Department,Academic,120,0,1,252,40.43
+02/02/2026,2,Electrical Department,Academic,110,0,1,270,49.61
+02/02/2026,2,Mechanical Department,Academic,130,0,1,271,44.05
+02/02/2026,2,AI Center,Academic,80,0,1,214,25.35
+02/02/2026,2,Central Library,Academic,150,0,1,289,46.18
+02/02/2026,2,Admin Block,Academic,70,0,1,240,36.28
+02/02/2026,2,Central Mess,Facility,400,0,0,607,77.13
+02/02/2026,2,Central Labs,Facility,90,0,0,175,17.63
+02/02/2026,2,Street Lighting,Facility,0,0,0,307,48.32
+02/02/2026,2,Sports Complex,Facility,60,0,0,156,24.3
+03/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,756,83.01
+03/02/2026,2,Ravi Girls,Hostel,200,1,0,520,98.94
+03/02/2026,2,Satluj,Hostel,350,0,0,598,62.53
+03/02/2026,2,Chenab,Hostel,350,0,0,600,87.26
+03/02/2026,2,beas,Hostel,300,0,0,539,63.06
+03/02/2026,2,T6 PhD,Hostel,200,1,0,505,88.72
+03/02/2026,2,Faculty Quarters,Residential,100,0,0,215,29.2
+03/02/2026,2,CS Department,Academic,120,0,1,252,49.11
+03/02/2026,2,Electrical Department,Academic,110,0,1,251,27.39
+03/02/2026,2,Mechanical Department,Academic,130,0,1,284,46.63
+03/02/2026,2,AI Center,Academic,80,0,1,220,31.14
+03/02/2026,2,Central Library,Academic,150,0,1,307,31.38
+03/02/2026,2,Admin Block,Academic,70,0,1,205,40.34
+03/02/2026,2,Central Mess,Facility,400,0,0,623,81.95
+03/02/2026,2,Central Labs,Facility,90,0,0,184,21.52
+03/02/2026,2,Street Lighting,Facility,0,0,0,317,56.98
+03/02/2026,2,Sports Complex,Facility,60,0,0,159,17.06
+04/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,760,140.13
+04/02/2026,2,Ravi Girls,Hostel,200,0,0,385,72.16
+04/02/2026,2,Satluj,Hostel,350,0,0,598,89.09
+04/02/2026,2,Chenab,Hostel,350,0,0,597,118.1
+04/02/2026,2,beas,Hostel,300,0,0,508,67.78
+04/02/2026,2,T6 PhD,Hostel,200,0,0,387,67.01
+04/02/2026,2,Faculty Quarters,Residential,100,0,0,207,37.35
+04/02/2026,2,CS Department,Academic,120,0,1,284,48.05
+04/02/2026,2,Electrical Department,Academic,110,0,1,273,39.85
+04/02/2026,2,Mechanical Department,Academic,130,0,1,279,43.76
+04/02/2026,2,AI Center,Academic,80,0,1,239,40.04
+04/02/2026,2,Central Library,Academic,150,0,1,282,32.68
+04/02/2026,2,Admin Block,Academic,70,0,1,223,31.98
+04/02/2026,2,Central Mess,Facility,400,0,0,664,89.93
+04/02/2026,2,Central Labs,Facility,90,0,0,194,28.79
+04/02/2026,2,Street Lighting,Facility,0,0,0,329,63.78
+04/02/2026,2,Sports Complex,Facility,60,0,0,162,18.82
+05/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,772,101.52
+05/02/2026,2,Ravi Girls,Hostel,200,0,0,383,66.73
+05/02/2026,2,Satluj,Hostel,350,1,0,716,105.47
+05/02/2026,2,Chenab,Hostel,350,1,0,701,88.41
+05/02/2026,2,beas,Hostel,300,0,0,534,75.42
+05/02/2026,2,T6 PhD,Hostel,200,0,0,399,64.24
+05/02/2026,2,Faculty Quarters,Residential,100,0,0,202,26.61
+05/02/2026,2,CS Department,Academic,120,0,1,275,43.98
+05/02/2026,2,Electrical Department,Academic,110,0,1,263,34.69
+05/02/2026,2,Mechanical Department,Academic,130,0,1,267,34.33
+05/02/2026,2,AI Center,Academic,80,0,1,222,35.18
+05/02/2026,2,Central Library,Academic,150,0,1,309,32.78
+05/02/2026,2,Admin Block,Academic,70,0,1,226,34.38
+05/02/2026,2,Central Mess,Facility,400,0,0,624,63.81
+05/02/2026,2,Central Labs,Facility,90,0,0,205,38.76
+05/02/2026,2,Street Lighting,Facility,0,0,0,318,57.51
+05/02/2026,2,Sports Complex,Facility,60,0,0,156,24.53
+06/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,783,92.49
+06/02/2026,2,Ravi Girls,Hostel,200,0,0,377,49.25
+06/02/2026,2,Satluj,Hostel,350,0,0,560,89.02
+06/02/2026,2,Chenab,Hostel,350,1,0,715,77.33
+06/02/2026,2,beas,Hostel,300,1,0,651,115.4
+06/02/2026,2,T6 PhD,Hostel,200,0,0,377,48.38
+06/02/2026,2,Faculty Quarters,Residential,100,0,0,188,30.17
+06/02/2026,2,CS Department,Academic,120,0,1,287,47.9
+06/02/2026,2,Electrical Department,Academic,110,0,1,242,30.64
+06/02/2026,2,Mechanical Department,Academic,130,0,1,261,38.07
+06/02/2026,2,AI Center,Academic,80,0,1,229,43.19
+06/02/2026,2,Central Library,Academic,150,0,1,278,55.52
+06/02/2026,2,Admin Block,Academic,70,0,1,233,26.4
+06/02/2026,2,Central Mess,Facility,400,0,0,662,81.5
+06/02/2026,2,Central Labs,Facility,90,0,0,182,22.22
+06/02/2026,2,Street Lighting,Facility,0,0,0,312,37.74
+06/02/2026,2,Sports Complex,Facility,60,0,0,184,22.8
+07/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,756,99.23
+07/02/2026,2,Ravi Girls,Hostel,200,0,0,382,61.9
+07/02/2026,2,Satluj,Hostel,350,0,0,575,111.24
+07/02/2026,2,Chenab,Hostel,350,0,0,559,98.71
+07/02/2026,2,beas,Hostel,300,0,0,539,71.61
+07/02/2026,2,T6 PhD,Hostel,200,1,0,524,87.6
+07/02/2026,2,Faculty Quarters,Residential,100,0,0,218,35.58
+07/02/2026,2,CS Department,Academic,120,0,1,250,32.8
+07/02/2026,2,Electrical Department,Academic,110,0,1,258,45.03
+07/02/2026,2,Mechanical Department,Academic,130,0,1,275,41.89
+07/02/2026,2,AI Center,Academic,80,0,1,235,42.89
+07/02/2026,2,Central Library,Academic,150,0,1,309,57.05
+07/02/2026,2,Admin Block,Academic,70,0,1,240,39.4
+07/02/2026,2,Central Mess,Facility,400,0,0,648,68.85
+07/02/2026,2,Central Labs,Facility,90,0,0,211,38.24
+07/02/2026,2,Street Lighting,Facility,0,0,0,315,56.98
+07/02/2026,2,Sports Complex,Facility,60,0,0,160,29.94
+08/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,785,90.02
+08/02/2026,2,Ravi Girls,Hostel,200,0,0,382,70.8
+08/02/2026,2,Satluj,Hostel,350,0,0,571,95.32
+08/02/2026,2,Chenab,Hostel,350,0,0,588,62.54
+08/02/2026,2,beas,Hostel,300,0,0,503,72.7
+08/02/2026,2,T6 PhD,Hostel,200,1,0,518,90.74
+08/02/2026,2,Faculty Quarters,Residential,100,0,0,199,25.66
+08/02/2026,2,CS Department,Academic,120,0,1,254,28.74
+08/02/2026,2,Electrical Department,Academic,110,0,1,246,41.27
+08/02/2026,2,Mechanical Department,Academic,130,0,1,259,30.27
+08/02/2026,2,AI Center,Academic,80,0,1,238,46.64
+08/02/2026,2,Central Library,Academic,150,0,1,281,38.87
+08/02/2026,2,Admin Block,Academic,70,0,1,213,35.71
+08/02/2026,2,Central Mess,Facility,400,0,0,662,113.89
+08/02/2026,2,Central Labs,Facility,90,0,0,188,27.46
+08/02/2026,2,Street Lighting,Facility,0,0,0,331,63.97
+08/02/2026,2,Sports Complex,Facility,60,0,0,182,33.47
+09/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,780,89.08
+09/02/2026,2,Ravi Girls,Hostel,200,0,0,382,61.58
+09/02/2026,2,Satluj,Hostel,350,0,0,604,63.25
+09/02/2026,2,Chenab,Hostel,350,0,0,569,105.98
+09/02/2026,2,beas,Hostel,300,0,0,504,62.94
+09/02/2026,2,T6 PhD,Hostel,200,0,0,400,45.29
+09/02/2026,2,Faculty Quarters,Residential,100,0,0,211,42.1
+09/02/2026,2,CS Department,Academic,120,0,1,260,51.37
+09/02/2026,2,Electrical Department,Academic,110,0,1,252,33.87
+09/02/2026,2,Mechanical Department,Academic,130,0,1,263,49.44
+09/02/2026,2,AI Center,Academic,80,0,1,236,26.87
+09/02/2026,2,Central Library,Academic,150,0,1,276,29.62
+09/02/2026,2,Admin Block,Academic,70,0,1,232,32.83
+09/02/2026,2,Central Mess,Facility,400,0,0,621,74.25
+09/02/2026,2,Central Labs,Facility,90,0,0,188,24.01
+09/02/2026,2,Street Lighting,Facility,0,0,0,303,45.84
+09/02/2026,2,Sports Complex,Facility,60,0,0,153,20.07
+10/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,754,144.82
+10/02/2026,2,Ravi Girls,Hostel,200,0,0,400,62.83
+10/02/2026,2,Satluj,Hostel,350,0,0,596,72.69
+10/02/2026,2,Chenab,Hostel,350,1,0,710,107.42
+10/02/2026,2,beas,Hostel,300,0,0,523,61.08
+10/02/2026,2,T6 PhD,Hostel,200,1,0,525,98.5
+10/02/2026,2,Faculty Quarters,Residential,100,0,0,212,36.16
+10/02/2026,2,CS Department,Academic,120,0,1,265,28.43
+10/02/2026,2,Electrical Department,Academic,110,0,1,271,46.58
+10/02/2026,2,Mechanical Department,Academic,130,0,1,292,56
+10/02/2026,2,AI Center,Academic,80,0,1,245,25.82
+10/02/2026,2,Central Library,Academic,150,0,1,287,31.03
+10/02/2026,2,Admin Block,Academic,70,0,1,239,40.31
+10/02/2026,2,Central Mess,Facility,400,0,0,678,120.22
+10/02/2026,2,Central Labs,Facility,90,0,0,201,35.74
+10/02/2026,2,Street Lighting,Facility,0,0,0,302,54.6
+10/02/2026,2,Sports Complex,Facility,60,0,0,154,27.02
+11/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,750,141.49
+11/02/2026,2,Ravi Girls,Hostel,200,0,0,409,44.88
+11/02/2026,2,Satluj,Hostel,350,0,0,568,105.58
+11/02/2026,2,Chenab,Hostel,350,0,0,596,73.59
+11/02/2026,2,beas,Hostel,300,0,0,509,93.02
+11/02/2026,2,T6 PhD,Hostel,200,1,0,480,93.67
+11/02/2026,2,Faculty Quarters,Residential,100,0,0,186,22.08
+11/02/2026,2,CS Department,Academic,120,0,1,282,38.44
+11/02/2026,2,Electrical Department,Academic,110,0,1,249,47.44
+11/02/2026,2,Mechanical Department,Academic,130,0,1,290,53.36
+11/02/2026,2,AI Center,Academic,80,0,1,229,29.72
+11/02/2026,2,Central Library,Academic,150,0,1,288,48.21
+11/02/2026,2,Admin Block,Academic,70,0,1,224,38.48
+11/02/2026,2,Central Mess,Facility,400,0,0,656,70.23
+11/02/2026,2,Central Labs,Facility,90,0,0,172,31.33
+11/02/2026,2,Street Lighting,Facility,0,0,0,336,39.38
+11/02/2026,2,Sports Complex,Facility,60,0,0,168,31.24
+12/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,789,95.65
+12/02/2026,2,Ravi Girls,Hostel,200,1,0,515,99.64
+12/02/2026,2,Satluj,Hostel,350,0,0,577,114.29
+12/02/2026,2,Chenab,Hostel,350,0,0,598,77.08
+12/02/2026,2,beas,Hostel,300,0,0,493,86.5
+12/02/2026,2,T6 PhD,Hostel,200,0,0,391,66.13
+12/02/2026,2,Faculty Quarters,Residential,100,0,0,196,29.47
+12/02/2026,2,CS Department,Academic,120,0,1,279,39.37
+12/02/2026,2,Electrical Department,Academic,110,0,1,244,43.75
+12/02/2026,2,Mechanical Department,Academic,130,0,1,289,30.05
+12/02/2026,2,AI Center,Academic,80,0,1,218,27.49
+12/02/2026,2,Central Library,Academic,150,0,1,307,32.02
+12/02/2026,2,Admin Block,Academic,70,0,1,229,44.6
+12/02/2026,2,Central Mess,Facility,400,0,0,654,119.63
+12/02/2026,2,Central Labs,Facility,90,0,0,209,28.88
+12/02/2026,2,Street Lighting,Facility,0,0,0,325,57.46
+12/02/2026,2,Sports Complex,Facility,60,0,0,176,20.17
+13/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,772,134.77
+13/02/2026,2,Ravi Girls,Hostel,200,0,0,390,70.52
+13/02/2026,2,Satluj,Hostel,350,1,0,675,105.43
+13/02/2026,2,Chenab,Hostel,350,0,0,560,75.93
+13/02/2026,2,beas,Hostel,300,0,0,523,88.32
+13/02/2026,2,T6 PhD,Hostel,200,0,0,376,53.62
+13/02/2026,2,Faculty Quarters,Residential,100,0,0,191,30.58
+13/02/2026,2,CS Department,Academic,120,0,1,262,46.09
+13/02/2026,2,Electrical Department,Academic,110,0,1,240,33.08
+13/02/2026,2,Mechanical Department,Academic,130,0,1,269,36.12
+13/02/2026,2,AI Center,Academic,80,0,1,233,24.98
+13/02/2026,2,Central Library,Academic,150,0,1,285,30.09
+13/02/2026,2,Admin Block,Academic,70,0,1,240,28.85
+13/02/2026,2,Central Mess,Facility,400,0,0,616,75.87
+13/02/2026,2,Central Labs,Facility,90,0,0,203,30.12
+13/02/2026,2,Street Lighting,Facility,0,0,0,308,41.36
+13/02/2026,2,Sports Complex,Facility,60,0,0,177,21.34
+14/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,770,111.17
+14/02/2026,2,Ravi Girls,Hostel,200,0,0,369,56.63
+14/02/2026,2,Satluj,Hostel,350,0,0,602,78.35
+14/02/2026,2,Chenab,Hostel,350,0,0,571,78.35
+14/02/2026,2,beas,Hostel,300,0,0,520,52.2
+14/02/2026,2,T6 PhD,Hostel,200,0,0,406,76.36
+14/02/2026,2,Faculty Quarters,Residential,100,0,0,194,29.08
+14/02/2026,2,CS Department,Academic,120,0,1,266,28.92
+14/02/2026,2,Electrical Department,Academic,110,0,1,264,35.43
+14/02/2026,2,Mechanical Department,Academic,130,0,1,274,50.13
+14/02/2026,2,AI Center,Academic,80,0,1,244,46.59
+14/02/2026,2,Central Library,Academic,150,0,1,307,43.93
+14/02/2026,2,Admin Block,Academic,70,0,1,205,29.39
+14/02/2026,2,Central Mess,Facility,400,0,0,671,120.37
+14/02/2026,2,Central Labs,Facility,90,0,0,178,23.84
+14/02/2026,2,Street Lighting,Facility,0,0,0,323,59.59
+14/02/2026,2,Sports Complex,Facility,60,0,0,172,24.11
+15/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,757,132.4
+15/02/2026,2,Ravi Girls,Hostel,200,0,0,375,55.51
+15/02/2026,2,Satluj,Hostel,350,0,0,568,87.8
+15/02/2026,2,Chenab,Hostel,350,0,0,561,83.29
+15/02/2026,2,beas,Hostel,300,1,0,629,76.49
+15/02/2026,2,T6 PhD,Hostel,200,0,0,385,75.35
+15/02/2026,2,Faculty Quarters,Residential,100,0,0,209,27.16
+15/02/2026,2,CS Department,Academic,120,0,1,280,47.8
+15/02/2026,2,Electrical Department,Academic,110,0,1,272,45.34
+15/02/2026,2,Mechanical Department,Academic,130,0,1,292,30.77
+15/02/2026,2,AI Center,Academic,80,0,1,234,29.07
+15/02/2026,2,Central Library,Academic,150,0,1,276,31.83
+15/02/2026,2,Admin Block,Academic,70,0,1,205,30.59
+15/02/2026,2,Central Mess,Facility,400,0,0,677,106.53
+15/02/2026,2,Central Labs,Facility,90,0,0,177,26.5
+15/02/2026,2,Street Lighting,Facility,0,0,0,317,42.09
+15/02/2026,2,Sports Complex,Facility,60,0,0,177,23.47
+16/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,781,144.84
+16/02/2026,2,Ravi Girls,Hostel,200,0,0,386,71.46
+16/02/2026,2,Satluj,Hostel,350,1,0,681,125.82
+16/02/2026,2,Chenab,Hostel,350,0,0,557,64.92
+16/02/2026,2,beas,Hostel,300,0,0,526,58.87
+16/02/2026,2,T6 PhD,Hostel,200,0,0,365,44.23
+16/02/2026,2,Faculty Quarters,Residential,100,0,0,200,36.73
+16/02/2026,2,CS Department,Academic,120,0,1,271,47.12
+16/02/2026,2,Electrical Department,Academic,110,0,1,252,42.74
+16/02/2026,2,Mechanical Department,Academic,130,0,1,290,30.53
+16/02/2026,2,AI Center,Academic,80,0,1,228,40.86
+16/02/2026,2,Central Library,Academic,150,0,1,275,43.02
+16/02/2026,2,Admin Block,Academic,70,0,1,215,36.71
+16/02/2026,2,Central Mess,Facility,400,0,0,603,95.44
+16/02/2026,2,Central Labs,Facility,90,0,0,183,32.25
+16/02/2026,2,Street Lighting,Facility,0,0,0,307,40.78
+16/02/2026,2,Sports Complex,Facility,60,0,0,159,23.69
+17/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,760,86.36
+17/02/2026,2,Ravi Girls,Hostel,200,0,0,380,68.6
+17/02/2026,2,Satluj,Hostel,350,0,0,583,80.78
+17/02/2026,2,Chenab,Hostel,350,0,0,602,86.55
+17/02/2026,2,beas,Hostel,300,0,0,510,57.98
+17/02/2026,2,T6 PhD,Hostel,200,1,0,499,95.94
+17/02/2026,2,Faculty Quarters,Residential,100,0,0,180,31.04
+17/02/2026,2,CS Department,Academic,120,0,1,269,35.95
+17/02/2026,2,Electrical Department,Academic,110,0,1,244,37.89
+17/02/2026,2,Mechanical Department,Academic,130,0,1,280,37.09
+17/02/2026,2,AI Center,Academic,80,0,1,232,35.22
+17/02/2026,2,Central Library,Academic,150,0,1,313,46.43
+17/02/2026,2,Admin Block,Academic,70,0,1,230,25.44
+17/02/2026,2,Central Mess,Facility,400,0,0,647,72.09
+17/02/2026,2,Central Labs,Facility,90,0,0,203,40.22
+17/02/2026,2,Street Lighting,Facility,0,0,0,322,33.37
+17/02/2026,2,Sports Complex,Facility,60,0,0,170,19.01
+18/02/2026,2,Brahmaputra Girls,Hostel,500,1,0,909,176.69
+18/02/2026,2,Ravi Girls,Hostel,200,0,0,406,57.72
+18/02/2026,2,Satluj,Hostel,350,1,0,709,131.93
+18/02/2026,2,Chenab,Hostel,350,0,0,572,76.21
+18/02/2026,2,beas,Hostel,300,0,0,519,70.94
+18/02/2026,2,T6 PhD,Hostel,200,1,0,528,103.82
+18/02/2026,2,Faculty Quarters,Residential,100,0,0,215,32.61
+18/02/2026,2,CS Department,Academic,120,0,1,272,34.96
+18/02/2026,2,Electrical Department,Academic,110,0,1,275,35.48
+18/02/2026,2,Mechanical Department,Academic,130,0,1,272,35.85
+18/02/2026,2,AI Center,Academic,80,0,1,219,25.66
+18/02/2026,2,Central Library,Academic,150,0,1,300,46.39
+18/02/2026,2,Admin Block,Academic,70,0,1,231,28.19
+18/02/2026,2,Central Mess,Facility,400,0,0,657,99.52
+18/02/2026,2,Central Labs,Facility,90,0,0,182,31.73
+18/02/2026,2,Street Lighting,Facility,0,0,0,336,53.87
+18/02/2026,2,Sports Complex,Facility,60,0,0,184,25.65
+19/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,761,85.7
+19/02/2026,2,Ravi Girls,Hostel,200,0,0,368,51.76
+19/02/2026,2,Satluj,Hostel,350,0,0,559,66.63
+19/02/2026,2,Chenab,Hostel,350,0,0,595,67.31
+19/02/2026,2,beas,Hostel,300,0,0,531,78.39
+19/02/2026,2,T6 PhD,Hostel,200,0,0,387,64.88
+19/02/2026,2,Faculty Quarters,Residential,100,0,0,215,37.76
+19/02/2026,2,CS Department,Academic,120,0,1,258,43.75
+19/02/2026,2,Electrical Department,Academic,110,0,1,261,34.61
+19/02/2026,2,Mechanical Department,Academic,130,0,1,283,52.28
+19/02/2026,2,AI Center,Academic,80,0,1,227,30.46
+19/02/2026,2,Central Library,Academic,150,0,1,314,49.15
+19/02/2026,2,Admin Block,Academic,70,0,1,227,22.9
+19/02/2026,2,Central Mess,Facility,400,0,0,608,93.53
+19/02/2026,2,Central Labs,Facility,90,0,0,199,36.41
+19/02/2026,2,Street Lighting,Facility,0,0,0,345,40.95
+19/02/2026,2,Sports Complex,Facility,60,0,0,161,17.7
+20/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,782,95.03
+20/02/2026,2,Ravi Girls,Hostel,200,0,0,396,76.4
+20/02/2026,2,Satluj,Hostel,350,0,0,569,98.92
+20/02/2026,2,Chenab,Hostel,350,1,0,693,86.09
+20/02/2026,2,beas,Hostel,300,0,0,493,94.58
+20/02/2026,2,T6 PhD,Hostel,200,1,0,515,101.8
+20/02/2026,2,Faculty Quarters,Residential,100,0,0,215,35.02
+20/02/2026,2,CS Department,Academic,120,0,1,265,46.13
+20/02/2026,2,Electrical Department,Academic,110,0,1,272,47.77
+20/02/2026,2,Mechanical Department,Academic,130,0,1,271,35
+20/02/2026,2,AI Center,Academic,80,0,1,216,27.85
+20/02/2026,2,Central Library,Academic,150,0,1,306,41.46
+20/02/2026,2,Admin Block,Academic,70,0,1,229,42.72
+20/02/2026,2,Central Mess,Facility,400,0,0,638,64.86
+20/02/2026,2,Central Labs,Facility,90,0,0,194,27.54
+20/02/2026,2,Street Lighting,Facility,0,0,0,308,48.83
+20/02/2026,2,Sports Complex,Facility,60,0,0,171,19.34
+21/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,796,108.91
+21/02/2026,2,Ravi Girls,Hostel,200,0,0,402,60.38
+21/02/2026,2,Satluj,Hostel,350,0,0,580,91.76
+21/02/2026,2,Chenab,Hostel,350,0,0,569,82.14
+21/02/2026,2,beas,Hostel,300,0,0,519,71.94
+21/02/2026,2,T6 PhD,Hostel,200,0,0,381,64.36
+21/02/2026,2,Faculty Quarters,Residential,100,0,0,191,29.6
+21/02/2026,2,CS Department,Academic,120,0,1,278,52.1
+21/02/2026,2,Electrical Department,Academic,110,0,1,258,27.21
+21/02/2026,2,Mechanical Department,Academic,130,0,1,293,41.07
+21/02/2026,2,AI Center,Academic,80,0,1,248,46.07
+21/02/2026,2,Central Library,Academic,150,0,1,292,34.33
+21/02/2026,2,Admin Block,Academic,70,0,1,222,39.52
+21/02/2026,2,Central Mess,Facility,400,0,0,606,61.18
+21/02/2026,2,Central Labs,Facility,90,0,0,205,37.32
+21/02/2026,2,Street Lighting,Facility,0,0,0,331,49.16
+21/02/2026,2,Sports Complex,Facility,60,0,0,152,22.04
+22/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,776,153.94
+22/02/2026,2,Ravi Girls,Hostel,200,1,0,487,54.77
+22/02/2026,2,Satluj,Hostel,350,0,0,568,67.27
+22/02/2026,2,Chenab,Hostel,350,1,0,683,71.51
+22/02/2026,2,beas,Hostel,300,1,0,640,90.52
+22/02/2026,2,T6 PhD,Hostel,200,0,0,402,41.29
+22/02/2026,2,Faculty Quarters,Residential,100,0,0,212,23.57
+22/02/2026,2,CS Department,Academic,120,0,1,276,49.46
+22/02/2026,2,Electrical Department,Academic,110,0,1,248,37.44
+22/02/2026,2,Mechanical Department,Academic,130,0,1,263,35.13
+22/02/2026,2,AI Center,Academic,80,0,1,227,44.54
+22/02/2026,2,Central Library,Academic,150,0,1,294,45.49
+22/02/2026,2,Admin Block,Academic,70,0,1,207,23.66
+22/02/2026,2,Central Mess,Facility,400,0,0,669,130.6
+22/02/2026,2,Central Labs,Facility,90,0,0,204,40.78
+22/02/2026,2,Street Lighting,Facility,0,0,0,320,44.55
+22/02/2026,2,Sports Complex,Facility,60,0,0,172,24.76
+23/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,769,101.24
+23/02/2026,2,Ravi Girls,Hostel,200,1,0,500,73.61
+23/02/2026,2,Satluj,Hostel,350,0,0,560,74.75
+23/02/2026,2,Chenab,Hostel,350,0,0,577,103.52
+23/02/2026,2,beas,Hostel,300,0,0,508,98.98
+23/02/2026,2,T6 PhD,Hostel,200,1,0,521,102.15
+23/02/2026,2,Faculty Quarters,Residential,100,0,0,196,20.07
+23/02/2026,2,CS Department,Academic,120,0,1,283,49.49
+23/02/2026,2,Electrical Department,Academic,110,0,1,256,32.96
+23/02/2026,2,Mechanical Department,Academic,130,0,1,273,51.4
+23/02/2026,2,AI Center,Academic,80,0,1,215,42.52
+23/02/2026,2,Central Library,Academic,150,0,1,286,52.77
+23/02/2026,2,Admin Block,Academic,70,0,1,206,31.8
+23/02/2026,2,Central Mess,Facility,400,0,0,617,67.29
+23/02/2026,2,Central Labs,Facility,90,0,0,189,25.91
+23/02/2026,2,Street Lighting,Facility,0,0,0,334,33.86
+23/02/2026,2,Sports Complex,Facility,60,0,0,179,25.63
+24/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,773,103.26
+24/02/2026,2,Ravi Girls,Hostel,200,0,0,386,51.8
+24/02/2026,2,Satluj,Hostel,350,0,0,555,65.91
+24/02/2026,2,Chenab,Hostel,350,0,0,564,71.11
+24/02/2026,2,beas,Hostel,300,1,0,648,97.92
+24/02/2026,2,T6 PhD,Hostel,200,0,0,405,43.72
+24/02/2026,2,Faculty Quarters,Residential,100,0,0,218,40.82
+24/02/2026,2,CS Department,Academic,120,0,1,255,40.37
+24/02/2026,2,Electrical Department,Academic,110,0,1,245,34.02
+24/02/2026,2,Mechanical Department,Academic,130,0,1,265,49.48
+24/02/2026,2,AI Center,Academic,80,0,1,246,38.14
+24/02/2026,2,Central Library,Academic,150,0,1,304,57.62
+24/02/2026,2,Admin Block,Academic,70,0,1,227,42.88
+24/02/2026,2,Central Mess,Facility,400,0,0,677,114.26
+24/02/2026,2,Central Labs,Facility,90,0,0,191,23.5
+24/02/2026,2,Street Lighting,Facility,0,0,0,314,43.53
+24/02/2026,2,Sports Complex,Facility,60,0,0,178,26.54
+25/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,799,80.44
+25/02/2026,2,Ravi Girls,Hostel,200,0,0,398,56.16
+25/02/2026,2,Satluj,Hostel,350,0,0,584,95.84
+25/02/2026,2,Chenab,Hostel,350,0,0,561,94.32
+25/02/2026,2,beas,Hostel,300,0,0,528,88.54
+25/02/2026,2,T6 PhD,Hostel,200,1,0,517,102.7
+25/02/2026,2,Faculty Quarters,Residential,100,0,0,213,39.23
+25/02/2026,2,CS Department,Academic,120,0,1,284,41.47
+25/02/2026,2,Electrical Department,Academic,110,0,1,260,43.61
+25/02/2026,2,Mechanical Department,Academic,130,0,1,268,39.76
+25/02/2026,2,AI Center,Academic,80,0,1,224,34.6
+25/02/2026,2,Central Library,Academic,150,0,1,313,53.69
+25/02/2026,2,Admin Block,Academic,70,0,1,221,31.19
+25/02/2026,2,Central Mess,Facility,400,0,0,676,92.39
+25/02/2026,2,Central Labs,Facility,90,0,0,175,32.75
+25/02/2026,2,Street Lighting,Facility,0,0,0,303,37.62
+25/02/2026,2,Sports Complex,Facility,60,0,0,182,23.06
+26/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,789,86.12
+26/02/2026,2,Ravi Girls,Hostel,200,0,0,372,50.58
+26/02/2026,2,Satluj,Hostel,350,0,0,594,73.2
+26/02/2026,2,Chenab,Hostel,350,0,0,556,56.15
+26/02/2026,2,beas,Hostel,300,0,0,517,87.55
+26/02/2026,2,T6 PhD,Hostel,200,0,0,406,46.16
+26/02/2026,2,Faculty Quarters,Residential,100,0,0,191,32.99
+26/02/2026,2,CS Department,Academic,120,0,1,286,30.1
+26/02/2026,2,Electrical Department,Academic,110,0,1,250,38.29
+26/02/2026,2,Mechanical Department,Academic,130,0,1,296,42.36
+26/02/2026,2,AI Center,Academic,80,0,1,246,36.27
+26/02/2026,2,Central Library,Academic,150,0,1,285,49.08
+26/02/2026,2,Admin Block,Academic,70,0,1,212,34.59
+26/02/2026,2,Central Mess,Facility,400,0,0,671,68.92
+26/02/2026,2,Central Labs,Facility,90,0,0,173,33.38
+26/02/2026,2,Street Lighting,Facility,0,0,0,319,42.2
+26/02/2026,2,Sports Complex,Facility,60,0,0,172,26.73
+27/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,794,148.3
+27/02/2026,2,Ravi Girls,Hostel,200,0,0,386,62.57
+27/02/2026,2,Satluj,Hostel,350,0,0,576,93.8
+27/02/2026,2,Chenab,Hostel,350,0,0,603,110.61
+27/02/2026,2,beas,Hostel,300,0,0,522,76.13
+27/02/2026,2,T6 PhD,Hostel,200,0,0,398,72.59
+27/02/2026,2,Faculty Quarters,Residential,100,0,0,216,31
+27/02/2026,2,CS Department,Academic,120,0,1,257,32.51
+27/02/2026,2,Electrical Department,Academic,110,0,1,256,31.24
+27/02/2026,2,Mechanical Department,Academic,130,0,1,294,33.68
+27/02/2026,2,AI Center,Academic,80,0,1,241,40.17
+27/02/2026,2,Central Library,Academic,150,0,1,279,46.02
+27/02/2026,2,Admin Block,Academic,70,0,1,222,36.1
+27/02/2026,2,Central Mess,Facility,400,0,0,657,106.53
+27/02/2026,2,Central Labs,Facility,90,0,0,178,20.21
+27/02/2026,2,Street Lighting,Facility,0,0,0,337,46.73
+27/02/2026,2,Sports Complex,Facility,60,0,0,162,23.55
+28/02/2026,2,Brahmaputra Girls,Hostel,500,0,0,768,133.32
+28/02/2026,2,Ravi Girls,Hostel,200,0,0,398,79.51
+28/02/2026,2,Satluj,Hostel,350,0,0,583,112.56
+28/02/2026,2,Chenab,Hostel,350,1,0,685,118.18
+28/02/2026,2,beas,Hostel,300,0,0,520,70.08
+28/02/2026,2,T6 PhD,Hostel,200,1,0,515,93.82
+28/02/2026,2,Faculty Quarters,Residential,100,0,0,180,27.26
+28/02/2026,2,CS Department,Academic,120,0,1,275,54.52
+28/02/2026,2,Electrical Department,Academic,110,0,1,276,43.84
+28/02/2026,2,Mechanical Department,Academic,130,0,1,258,47.12
+28/02/2026,2,AI Center,Academic,80,0,1,221,23.32
+28/02/2026,2,Central Library,Academic,150,0,1,312,60.17
+28/02/2026,2,Admin Block,Academic,70,0,1,214,29.92
+28/02/2026,2,Central Mess,Facility,400,0,0,669,128.04
+28/02/2026,2,Central Labs,Facility,90,0,0,176,23.85
+28/02/2026,2,Street Lighting,Facility,0,0,0,344,58.46
+28/02/2026,2,Sports Complex,Facility,60,0,0,173,22.76
