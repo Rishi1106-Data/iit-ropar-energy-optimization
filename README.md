@@ -1,6 +1,13 @@
 
 # IIT Ropar Energy Optimization Pipeline
 
+## Author
+Authors: Rishiraj Karn (2025DSS1020)
+M.Sc. Data Science & Management
+Joinntly offered by IIT Ropar & IIM Amritsar
+Submitted to: Prof. Mayuresh Pardeshi
+Institute: Indian Institute of Technology, Ropar
+
 ## Overview
 This project analyzes and optimizes energy consumption data for IIT Ropar buildings. It compares machine learning models for energy prediction and evaluates optimization strategies to reduce electricity costs.
 
@@ -35,7 +42,4 @@ cd IIT_Ropar_Energy_Pipeline
 pip install -r requirements.txt
 ```
 
-## Author
-Rishiraj Karn
-M.Sc. Data Science & Management
-IIT Ropar & IIM Amritsar
+
